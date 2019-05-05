@@ -1,3 +1,5 @@
 django >= 2.1.6, < 3.0
 Pillow >= 6.0.0, < 7.0.0
 djangorestframework >= 3.9.3, < 4.0.0
+markdown
+django-filter

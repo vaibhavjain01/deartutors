@@ -46,6 +46,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="service\tests.py" />
+    <Compile Include="service\urls.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="service\views.py" />
     <Compile Include="service\__init__.py" />
     <Compile Include="shop\admin.py" />

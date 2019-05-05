@@ -1,5 +1,5 @@
 from django.contrib import admin
-from service.models import AboutUs, Brand, Image, ContactNumber, Address, \
+from service.models import AboutUs, Brand, ContactNumber, Address, \
     HoursOfOperation, Category, Service, ServiceImage
 
 # Register your models here.
@@ -27,12 +27,9 @@ class ServiceAdmin(admin.ModelAdmin):
     list_display = ('id', 'name', 'short_desc', 'self_webpage_link', 'price', 'duration_in_mins',
         'duration_in_hours', 'main_pic', 'category')
 
-class ImageAdmin(admin.ModelAdmin):
-    list_display = ('id', 'image')
 
 admin.site.register(AboutUs, AboutUsAdmin)
 admin.site.register(Brand, BrandAdmin)
-admin.site.register(Image)
 admin.site.register(ContactNumber, ContactNumberAdmin)
 admin.site.register(Address, AddressAdmin)
 admin.site.register(HoursOfOperation, HoursOfOperationAdmin)
