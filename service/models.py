@@ -47,7 +47,9 @@ class AboutUs(models.Model):
 
 class HoursOfOperation(models.Model):
     id = models.AutoField(primary_key=True)
-    day = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
+    DAY_CHOICES = (('Mon', 'Monday'), ('Tue', 'Tuesday'), ('Wed', 'Wednesday'), ('Thu', 'Thursday'), 
+                   ('Fri', 'Friday'), ('Sat', 'Saturday'), ('Sun', 'Sunday'), ('All', 'All Days'))
+    day = models.CharField(max_length=10, choices=DAY_CHOICES, default='Mon')
     start_time = models.TimeField()
     end_time = models.TimeField()
     
@@ -64,8 +66,8 @@ class Service(models.Model):
     short_desc = models.TextField()
     self_webpage_link = models.URLField()
     price = models.PositiveIntegerField()
-    duration_in_mins = models.IntegerField(2)
-    duration_in_hours = models.IntegerField(4)
+    duration_in_mins = models.IntegerField()
+    duration_in_hours = models.IntegerField()
     main_pic = models.ForeignKey(Image, on_delete=models.CASCADE)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
     
