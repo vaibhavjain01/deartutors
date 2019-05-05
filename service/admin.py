@@ -18,7 +18,7 @@ class ContactNumberAdmin(admin.ModelAdmin):
     list_display = ('id', 'country_code', 'telephone')
 
 class AddressAdmin(admin.ModelAdmin):
-    list_display = ('id', 'suit_num', 'floor_num', 'street_num', 'city', 'province', 'country', 'postal_code')
+    list_display = ('id', 'suit_num', 'floor_num', 'street_num', 'street_name', 'city', 'province', 'country', 'postal_code')
 
 class HoursOfOperationAdmin(admin.ModelAdmin):
     list_display = ('id', 'day', 'start_time', 'end_time')

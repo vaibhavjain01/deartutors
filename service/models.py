@@ -18,6 +18,7 @@ class Address(models.Model):
     suit_num = models.PositiveIntegerField()
     floor_num = models.PositiveIntegerField()
     street_num = models.PositiveIntegerField()
+    street_name = models.TextField()
     city = models.TextField()
     province = models.TextField()
     country = models.TextField()
