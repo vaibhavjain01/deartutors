@@ -63,7 +63,7 @@ class Brand(models.Model):
         ordering = ('id',)
 
     def __str__(self):
-        return self.name()
+        return self.name
     
 
 class AboutUs(models.Model):
@@ -76,7 +76,7 @@ class AboutUs(models.Model):
         ordering = ('id',)
 
     def __str__(self):
-        return self.title()
+        return self.title
 
 
 class HoursOfOperation(models.Model):
@@ -91,7 +91,7 @@ class HoursOfOperation(models.Model):
         ordering = ('id',)
 
     def __str__(self):
-        return self.day()
+        return self.day
 
 
 class Category(models.Model):
@@ -103,7 +103,7 @@ class Category(models.Model):
         ordering = ('id',)
 
     def __str__(self):
-        return self.name()
+        return self.name
 
 
 class Service(models.Model):
@@ -121,17 +121,19 @@ class Service(models.Model):
         ordering = ('id',)
 
     def __str__(self):
-        return self.name()
+        return self.name
 
     
 class ServiceImage(models.Model):
     id = models.AutoField(primary_key=True)
-    service = models.ForeignKey(Service, on_delete=models.CASCADE)
+    service_name = models.ForeignKey(Service, on_delete=models.CASCADE, default=None)
+    #service = models.CharField(max_length=50, choices=get_service_choices, default='Mon')
     image = models.ImageField(upload_to='service/others/')
 
     class Meta:
         ordering = ('id',)
 
     def __str__(self):
-        return self.service.name + "_image"
-
+        if self.service_name is None:
+            return "ERROR-CUSTOMER NAME IS NULL"
+        return self.service_name.name

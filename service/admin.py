@@ -27,6 +27,8 @@ class ServiceAdmin(admin.ModelAdmin):
     list_display = ('id', 'name', 'short_desc', 'self_webpage_link', 'price', 'duration_in_mins',
         'duration_in_hours', 'main_pic', 'category')
 
+class ServiceImageAdmin(admin.ModelAdmin):
+    list_display = ('id', 'service_name', 'image')
 
 admin.site.register(AboutUs, AboutUsAdmin)
 admin.site.register(Brand, BrandAdmin)
@@ -35,4 +37,4 @@ admin.site.register(Address, AddressAdmin)
 admin.site.register(HoursOfOperation, HoursOfOperationAdmin)
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Service, ServiceAdmin)
-admin.site.register(ServiceImage)
+admin.site.register(ServiceImage, ServiceImageAdmin)
