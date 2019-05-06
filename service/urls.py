@@ -15,4 +15,5 @@ urlpatterns = [
     path('hoursofoperation/', views.HoursOfOperationView.as_view({'get': 'list'})),
     path('services/', views.ServiceView.as_view({'get': 'list'})),
     path('serviceimages/', views.ServiceImageView.as_view({'get': 'list'})),
+    path('servicelist/', views.ServiceImageListView.as_view()),
 ]

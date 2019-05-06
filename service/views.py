@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from rest_framework import status, viewsets
+from rest_framework import status, viewsets, generics
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from service.serializers import BrandSerializer, ContactNumberSerializer, \
@@ -41,3 +41,16 @@ class ServiceView(viewsets.ModelViewSet):
 class ServiceImageView(viewsets.ModelViewSet):
     queryset = ServiceImage.objects.all()
     serializer_class = ServiceImageSerializer
+
+class ServiceImageListView(generics.ListAPIView):
+    model = ServiceImage
+    serializer_class = ServiceImageSerializer
+
+    def get_queryset(self, *args, **kwargs):
+        service_query = self.request.GET.get('service_name')
+        print("VJ", service_query)
+        queryset = ServiceImage.objects.all()
+        
+        if service_query is not None:
+            queryset = queryset.filter(service_name__name__icontains=service_query)
+        return queryset
