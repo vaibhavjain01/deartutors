@@ -14,7 +14,12 @@ class ServiceHeader extends React.Component {
 
   componentDidMount() {
     console.log(API_CONSTANTS.API_BRAND_URL);
-    Axios.get(API_CONSTANTS.API_BRAND_URL)
+    const header = {
+      headers: {
+        Authorization: "Bearer " + localStorage.getItem("JWTAccess")
+      }
+    };
+    Axios.get(API_CONSTANTS.API_BRAND_URL, header)
       .then(function(response) {
         console.log(response);
         const brand_info = response.data.map(c => {
