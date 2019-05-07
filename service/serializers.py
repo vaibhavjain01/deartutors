@@ -1,7 +1,7 @@
 from rest_framework import serializers
 from django.contrib.auth.models import User, Group
 from service.models import  AboutUs, Brand, ContactNumber, Address, \
-    HoursOfOperation, Category, Service, ServiceImage
+    HoursOfOperation, Category, Service, ServiceImage, ContactMessage, AppointmentRequest
 
 
 class CategorySerializer(serializers.ModelSerializer):
@@ -98,3 +98,17 @@ class ServiceImageSerializer(serializers.ModelSerializer):
             return request.build_absolute_uri(image_url)
         else:
             return None
+
+class ContactMessageSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = ContactMessage
+        fields = ('id', 'sender_name', 'sender_email', 'subject', 'msg', 'msg_time')
+        read_only_fields = fields
+
+class AppointmentRequestSerializer(serializers.ModelSerializer):
+    service_name = serializers.SlugRelatedField(read_only=True, slug_field='name')
+
+    class Meta:
+        model = AppointmentRequest
+        fields = ('id', 'service_name', 'request_date', 'request_time', 'request_duration')
+        read_only_fields = fields

@@ -133,7 +133,6 @@ class Service(models.Model):
 class ServiceImage(models.Model):
     id = models.AutoField(primary_key=True)
     service_name = models.ForeignKey(Service, on_delete=models.CASCADE, default=None)
-    #service = models.CharField(max_length=50, choices=get_service_choices, default='Mon')
     image = models.ImageField(upload_to='service/others/')
 
     class Meta:
@@ -143,3 +142,25 @@ class ServiceImage(models.Model):
         if self.service_name is None:
             return "ERROR-CUSTOMER NAME IS NULL"
         return self.service_name.name
+
+
+class ContactMessage(models.Model):
+    id = models.AutoField(primary_key=True)
+    sender_name = models.TextField(default="")
+    sender_email = models.TextField(default="")
+    subject = models.TextField(default="")
+    msg = models.TextField(default="")
+    msg_time = models.TimeField()
+
+    def __str__(self):
+        return self.subject
+
+class AppointmentRequest(models.Model):
+    id = models.AutoField(primary_key=True)
+    service_name = models.ForeignKey(Service, on_delete=models.CASCADE, default=None)
+    request_date = models.DateField()
+    request_time = models.TimeField()
+    request_duration = models.PositiveIntegerField()
+
+    def __str__(self):
+        return (self.service_name + "_" + str(request_duration))

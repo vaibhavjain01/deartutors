@@ -1,6 +1,6 @@
 from django.contrib import admin
 from service.models import AboutUs, Brand, ContactNumber, Address, \
-    HoursOfOperation, Category, Service, ServiceImage
+    HoursOfOperation, Category, Service, ServiceImage, AppointmentRequest, ContactMessage
 
 # Register your models here.
 
@@ -31,6 +31,12 @@ class ServiceAdmin(admin.ModelAdmin):
 class ServiceImageAdmin(admin.ModelAdmin):
     list_display = ('id', 'service_name', 'image')
 
+class ContactMessageAdmin(admin.ModelAdmin):
+    list_display = ('id', 'sender_name', 'sender_email', 'subject', 'msg', 'msg_time')
+
+class AppointmentRequestAdmin(admin.ModelAdmin):
+    list_display = ('id', 'service_name', 'request_date', 'request_time', 'request_duration')
+
 admin.site.register(AboutUs, AboutUsAdmin)
 admin.site.register(Brand, BrandAdmin)
 admin.site.register(ContactNumber, ContactNumberAdmin)
@@ -39,3 +45,5 @@ admin.site.register(HoursOfOperation, HoursOfOperationAdmin)
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Service, ServiceAdmin)
 admin.site.register(ServiceImage, ServiceImageAdmin)
+admin.site.register(ContactMessage, ContactMessageAdmin)
+admin.site.register(AppointmentRequest, AppointmentRequestAdmin)
