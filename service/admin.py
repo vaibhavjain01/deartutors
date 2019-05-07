@@ -5,20 +5,21 @@ from service.models import AboutUs, Brand, ContactNumber, Address, \
 # Register your models here.
 
 class CategoryAdmin(admin.ModelAdmin):
-    list_display = ('id', 'name', 'desc')
+    list_display = ('id', 'name', 'short_desc', 'long_desc')
 
 class AboutUsAdmin(admin.ModelAdmin):
-    list_display = ('id', 'title', 'image', 'description')
+    list_display = ('id', 'title', 'image', 'short_description', 'long_description')
 
 class BrandAdmin(admin.ModelAdmin):
     list_display = ('id', 'name', 'contact_number', 'title', 'short_desc', 'long_desc', 'address',
-                    'logo_image', 'web_page_logo')
+                    'logo_image', 'web_page_logo', 'email', 'facebook_url', 'twitter_url', 'linkedin_url')
 
 class ContactNumberAdmin(admin.ModelAdmin):
     list_display = ('id', 'country_code', 'telephone')
 
 class AddressAdmin(admin.ModelAdmin):
-    list_display = ('id', 'suit_num', 'floor_num', 'street_num', 'street_name', 'city', 'province', 'country', 'postal_code')
+    list_display = ('id', 'suit_num', 'floor_num', 'street_num', 'street_name', 'city', 'province', 
+                    'country', 'postal_code')
 
 class HoursOfOperationAdmin(admin.ModelAdmin):
     list_display = ('id', 'day', 'start_time', 'end_time')

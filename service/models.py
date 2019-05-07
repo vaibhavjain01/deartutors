@@ -15,7 +15,7 @@ class ContactNumber(models.Model):
         return (self.country_code + str(self.telephone))
 
     def __str__(self):
-        return self.complete_telephone()
+        return self.complete_telephone
 
 
 class Address(models.Model):
@@ -45,7 +45,7 @@ class Address(models.Model):
         return addr
 
     def __str__(self):
-        return self.complete_address()
+        return self.complete_address
 
 
 class Brand(models.Model):
@@ -57,7 +57,11 @@ class Brand(models.Model):
     title = models.TextField()
     short_desc = models.TextField()
     long_desc = models.TextField()
+    email = models.TextField()
     address = models.ForeignKey(Address, on_delete=models.CASCADE)
+    facebook_url = models.URLField(default="na@na.com")
+    twitter_url = models.URLField(default="na@na.com")
+    linkedin_url = models.URLField(default="na@na.com")
 
     class Meta:
         ordering = ('id',)
@@ -70,7 +74,8 @@ class AboutUs(models.Model):
     id = models.AutoField(primary_key=True)
     image = models.ImageField(upload_to='aboutus/')
     title = models.TextField()
-    description = models.TextField()
+    short_description = models.TextField()
+    long_description = models.TextField()
 
     class Meta:
         ordering = ('id',)
@@ -97,7 +102,8 @@ class HoursOfOperation(models.Model):
 class Category(models.Model):
     id = models.AutoField(primary_key=True)
     name = models.TextField()
-    desc = models.TextField()
+    short_desc = models.TextField()
+    long_desc = models.TextField()
 
     class Meta:
         ordering = ('id',)
@@ -110,7 +116,7 @@ class Service(models.Model):
     id = models.AutoField(primary_key=True)
     name = models.TextField()
     short_desc = models.TextField()
-    self_webpage_link = models.URLField()
+    self_webpage_link = models.URLField(default="na@na.com")
     price = models.PositiveIntegerField()
     duration_in_mins = models.IntegerField()
     duration_in_hours = models.IntegerField()

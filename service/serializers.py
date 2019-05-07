@@ -7,7 +7,7 @@ from service.models import  AboutUs, Brand, ContactNumber, Address, \
 class CategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = Category
-        fields = ('id', 'name', 'desc')
+        fields = ('id', 'name', 'short_desc', 'long_desc')
         read_only_fields = fields
 
 class AddressSerializer(serializers.ModelSerializer):
@@ -32,7 +32,8 @@ class BrandSerializer(serializers.ModelSerializer):
     class Meta:
         model = Brand
         fields = ('id', 'name', 'contact_number', 'title', 'short_desc', 'long_desc', 'address',
-                    'logo_image_url', 'web_page_logo_url')
+                    'logo_image_url', 'web_page_logo_url', 'email', 'facebook_url', 
+                    'twitter_url', 'linkedin_url')
         read_only_fields = fields
 
     def get_logo_image_url(self, instance):
@@ -60,7 +61,7 @@ class HoursOfOperationSerializer(serializers.ModelSerializer):
 class AboutUsSerializer(serializers.ModelSerializer):
     class Meta:
         model = AboutUs
-        fields = ('id', 'title', 'image', 'description')
+        fields = ('id', 'title', 'image', 'short_description', 'long_description')
         read_only_fields = fields
 
 class ServiceSerializer(serializers.ModelSerializer):
