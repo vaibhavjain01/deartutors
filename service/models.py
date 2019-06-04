@@ -51,8 +51,8 @@ class Address(models.Model):
 class Brand(models.Model):
     id = models.AutoField(primary_key=True)
     name = models.TextField()
-    logo_image = models.ImageField(upload_to='brand/logo/')
-    web_page_logo = models.ImageField(upload_to='brand/tablogo/')
+    logo_image = models.ImageField(upload_to='images/brand_logo/')
+    web_page_logo = models.ImageField(upload_to='images/brand_web_page_logo/')
     contact_number = models.ForeignKey(ContactNumber, on_delete=models.CASCADE)
     title = models.TextField()
     short_desc = models.TextField()
@@ -72,7 +72,7 @@ class Brand(models.Model):
 
 class AboutUs(models.Model):
     id = models.AutoField(primary_key=True)
-    image = models.ImageField(upload_to='aboutus/')
+    image = models.ImageField(upload_to='images/aboutus/')
     title = models.TextField()
     short_description = models.TextField()
     long_description = models.TextField()
@@ -120,7 +120,7 @@ class Service(models.Model):
     price = models.PositiveIntegerField()
     duration_in_mins = models.IntegerField()
     duration_in_hours = models.IntegerField()
-    main_pic = models.ImageField(upload_to='service/thumb/')
+    main_pic = models.ImageField(upload_to='images/service/thumb/')
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
 
     class Meta:
@@ -133,7 +133,7 @@ class Service(models.Model):
 class ServiceImage(models.Model):
     id = models.AutoField(primary_key=True)
     service_name = models.ForeignKey(Service, on_delete=models.CASCADE, default=None)
-    image = models.ImageField(upload_to='service/others/')
+    image = models.ImageField(upload_to='images/service/all/')
 
     class Meta:
         ordering = ('id',)

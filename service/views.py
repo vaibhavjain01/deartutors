@@ -2,6 +2,8 @@ from django.shortcuts import render
 from rest_framework import status, viewsets, generics
 from rest_framework.views import APIView
 from rest_framework.response import Response
+from django.http import HttpResponse
+
 from service.serializers import BrandSerializer, ContactNumberSerializer, \
     AddressSerializer, CategorySerializer, HoursOfOperationSerializer, \
     AboutUsSerializer, ServiceSerializer, ServiceImageSerializer
@@ -54,3 +56,15 @@ class ServiceImageListView(generics.ListAPIView):
         if service_query is not None:
             queryset = queryset.filter(service_name__name__icontains=service_query)
         return queryset
+
+class MediaImageView(generics.RetrieveAPIView):
+    model = Brand
+    def get(self, request, *args, **kwargs):
+        print("VJ A")
+        print(request)
+        print("VJ B")
+        print(kwargs.keys())
+        print("VJ C")
+        print(kwargs["media_path"])
+        img = Brand.objects.get(id=1).logo_image
+        return HttpResponse(img, content_type="image/png")

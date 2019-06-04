@@ -1,4 +1,4 @@
-const API_ENDPOINT = "localhost:4001/";
+const API_ENDPOINT = "http://localhost:4001/";
 export const API_BRAND_URL = API_ENDPOINT + "brand/";
 export const API_ADDRESS_URL = API_ENDPOINT + "address/";
 export const API_CONTACT_URL = API_ENDPOINT + "contact/";
