@@ -9,7 +9,7 @@ import * as serviceWorker from "./serviceWorker";
 import { Grid, GridColumn, Segment } from "semantic-ui-react";
 
 function App() {
-  const header_bg_color = "white";
+  const header_bg_color = "grey";
   const menu_bg_color = "teal";
   const max_grid_col_width = 10;
   return (
@@ -17,7 +17,7 @@ function App() {
       <Grid>
         <GridColumn width="3" />
         <GridColumn width="10">
-          <Segment inverted>
+          <Segment color="teal" inverted>
             <ServiceHeader
               header_bg_color={header_bg_color}
               max_grid_col_width={max_grid_col_width}

@@ -14,7 +14,9 @@ urlpatterns = [
     path('aboutus/', views.AboutUsView.as_view({'get': 'list'})),
     path('hoursofoperation/', views.HoursOfOperationView.as_view({'get': 'list'})),
     path('services/', views.ServiceView.as_view({'get': 'list'})),
+    path('services/<str:category>', views.CategoryServiceView.as_view()),
     path('serviceimages/', views.ServiceImageView.as_view({'get': 'list'})),
     path('servicelist/', views.ServiceImageListView.as_view()),
-    path('media/images/brand_logo/<str:media_path>', views.MediaImageView.as_view()),
+    path('media/images/brand_logo/<str:img_name>', views.BrandLogoView.as_view()),
+    path('media/images/brand_web_page_logo/<str:img_name>', views.BrandWebPageLogoView.as_view()),
 ]

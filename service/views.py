@@ -3,6 +3,7 @@ from rest_framework import status, viewsets, generics
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from django.http import HttpResponse
+from django.core import serializers
 
 from service.serializers import BrandSerializer, ContactNumberSerializer, \
     AddressSerializer, CategorySerializer, HoursOfOperationSerializer, \
@@ -40,6 +41,19 @@ class ServiceView(viewsets.ModelViewSet):
     queryset = Service.objects.all()
     serializer_class = ServiceSerializer
 
+class CategoryServiceView(generics.ListAPIView):
+    queryset = Service.objects.all()
+    serializer_class = ServiceSerializer
+
+    def get(self, request, *args, **kwargs):
+        categoryId = Category.objects.get(name=kwargs["category"])
+        print(kwargs["category"], categoryId)
+        rtList = Service.objects.all().filter(category=categoryId)
+        rtJsonList = serializers.serialize('json', rtList)
+        print(rtJsonList)
+        return HttpResponse(rtJsonList, content_type='application/json')
+
+
 class ServiceImageView(viewsets.ModelViewSet):
     queryset = ServiceImage.objects.all()
     serializer_class = ServiceImageSerializer
@@ -57,14 +71,14 @@ class ServiceImageListView(generics.ListAPIView):
             queryset = queryset.filter(service_name__name__icontains=service_query)
         return queryset
 
-class MediaImageView(generics.RetrieveAPIView):
+class BrandLogoView(generics.RetrieveAPIView):
     model = Brand
     def get(self, request, *args, **kwargs):
-        print("VJ A")
-        print(request)
-        print("VJ B")
-        print(kwargs.keys())
-        print("VJ C")
-        print(kwargs["media_path"])
         img = Brand.objects.get(id=1).logo_image
+        return HttpResponse(img, content_type="image/png")
+
+class BrandWebPageLogoView(generics.RetrieveAPIView):
+    model = Brand
+    def get(self, request, *args, **kwargs):
+        img = Brand.objects.get(id=1).web_page_logo
         return HttpResponse(img, content_type="image/png")

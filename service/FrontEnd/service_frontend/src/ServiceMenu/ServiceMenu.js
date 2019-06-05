@@ -2,11 +2,12 @@ import React, { Component } from "react";
 import { Divider, Tab } from "semantic-ui-react";
 import * as COLORS from "../Common/ColorConstants";
 import ServiceHome from "../ContentPages/ServiceHome/ServiceHome";
+import ServiceCategories from "../ContentPages/ServiceCategories/ServiceCategories";
 
 class ServiceMenu extends Component {
   state = { color: COLORS.COLOR_BLACK, content_color: COLORS.COLOR_VIOLET };
   render() {
-    const menu_bg_color = "teal"; //this.props.menu_bg_color;
+    const menu_bg_color = "violet"; //this.props.menu_bg_color;
     const panes = [
       {
         menuItem: "Home",
@@ -17,12 +18,20 @@ class ServiceMenu extends Component {
         )
       },
       {
-        menuItem: "Services",
-        render: () => <Tab.Pane attached={false}>Services</Tab.Pane>
+        menuItem: "Categories",
+        render: () => (
+          <Tab.Pane attached={false}>
+            <ServiceCategories />
+          </Tab.Pane>
+        )
       },
       {
         menuItem: "BookAnAppointment",
         render: () => <Tab.Pane attached={false}>Appointment</Tab.Pane>
+      },
+      {
+        menuItem: "ContactUs",
+        render: () => <Tab.Pane attached={false}>Contact Us</Tab.Pane>
       },
       {
         menuItem: "AboutUs",
