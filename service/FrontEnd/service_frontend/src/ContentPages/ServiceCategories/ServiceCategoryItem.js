@@ -1,56 +1,59 @@
 /* eslint-env node, es6 */
 import React from "react";
-import Axios from "axios";
-import * as API_CONSTANTS from "../../Common/APIConstants";
-import { Grid, Segment, GridRow, Header } from "semantic-ui-react";
+import {
+  Grid,
+  Segment,
+  GridRow,
+  Header,
+  GridColumn,
+  Image
+} from "semantic-ui-react";
+import { Template } from "../../Common/HelperComponents/Template";
 
 class ServiceCategoryItem extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { service_item_info: undefined };
-    this.state.category_name = props.category_name;
-    console.log("Calling for " + props.category_name);
-  }
-
-  componentDidMount() {
-    const header = {
-      headers: {
-        Authorization: "Bearer " + localStorage.getItem("JWTAccess")
-      }
-    };
-    if (this.state.category_name == undefined) {
-      return;
-    }
-    Axios.get(API_CONSTANTS.API_SERVICES + this.state.category_name, header)
-      .then(
-        function(response) {
-          const service_item_info = response.data.map(c => {
-            return {
-              fields: c.fields
-            };
-          });
-          this.setState({
-            service_item_info: service_item_info
-          });
-        }.bind(this)
-      )
-      .catch(error => console.log(error));
+    this.state = {};
+    this.state.serviceItem = props.serviceItem;
   }
 
   render() {
-    const { service_item_info } = this.state;
+    const { serviceItem } = this.state;
     return (
-      <div className="CategoryServices">
-        {service_item_info
-          ? service_item_info.map(function(service_item, i) {
-              return (
-                <Header key={i} as="h5">
-                  {service_item["fields"]["name"]}
+      <Segment basic color="teal">
+        <div className="CategoryServices">
+          <Grid>
+            <GridColumn width="4">
+              <Image size="huge" src={serviceItem["main_pic_url"]} />
+            </GridColumn>
+            <GridColumn width="12">
+              <GridRow>
+                <Header as="h3">{serviceItem["name"]}</Header>
+              </GridRow>
+              <GridRow>
+                <br />
+              </GridRow>
+              <GridRow>
+                <Header as="h5">
+                  <Template>{serviceItem["short_desc"]}</Template>
                 </Header>
-              );
-            })
-          : "Loading"}
-      </div>
+              </GridRow>
+              <GridRow>
+                <br />
+              </GridRow>
+              <GridRow>
+                <Header as="h5">${serviceItem["price"]} per session</Header>
+              </GridRow>
+              <GridRow>
+                <Header as="h5">
+                  Minimum session duration: {serviceItem["duration_in_hours"]}{" "}
+                  hours and {serviceItem["duration_in_mins"]} minutes
+                </Header>
+              </GridRow>
+            </GridColumn>
+          </Grid>
+        </div>
+      </Segment>
     );
   }
 }

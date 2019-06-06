@@ -82,3 +82,10 @@ class BrandWebPageLogoView(generics.RetrieveAPIView):
     def get(self, request, *args, **kwargs):
         img = Brand.objects.get(id=1).web_page_logo
         return HttpResponse(img, content_type="image/png")
+
+class ServiceThumbView(generics.RetrieveAPIView):
+    model = Service
+    def get(self, request, *args, **kwargs):
+        print(kwargs['img_name'])
+        img = Service.objects.all().filter(main_pic__contains=kwargs['img_name'])[0].main_pic
+        return HttpResponse(img, content_type="image/png")

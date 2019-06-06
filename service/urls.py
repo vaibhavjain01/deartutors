@@ -19,4 +19,6 @@ urlpatterns = [
     path('servicelist/', views.ServiceImageListView.as_view()),
     path('media/images/brand_logo/<str:img_name>', views.BrandLogoView.as_view()),
     path('media/images/brand_web_page_logo/<str:img_name>', views.BrandWebPageLogoView.as_view()),
+    path('media/images/service/thumb/<str:img_name>', views.ServiceThumbView.as_view()),
+    
 ]

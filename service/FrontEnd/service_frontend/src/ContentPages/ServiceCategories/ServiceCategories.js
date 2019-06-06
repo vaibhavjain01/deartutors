@@ -2,13 +2,19 @@
 import React from "react";
 import Axios from "axios";
 import * as API_CONSTANTS from "../../Common/APIConstants";
-import { Grid, Segment, GridRow, Header } from "semantic-ui-react";
+import { Grid, Segment, GridRow, Header, Menu } from "semantic-ui-react";
 import ServiceCategoryItem from "./ServiceCategoryItem";
+import { Template } from "../../Common/HelperComponents/Template";
 
 class ServiceCategories extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { categories_info: "", services_info: "" };
+    this.state = {
+      categories_info: "",
+      services_info: "",
+      activeIndex: 0,
+      render_panes: false
+    };
   }
 
   componentDidMount() {
@@ -52,12 +58,19 @@ class ServiceCategories extends React.Component {
             .catch(error => console.log(error));
 
           this.setState({
-            categories_info: categories_info
+            categories_info: categories_info,
+            category: categories_info[0],
+            activeItem: categories_info[0].name
           });
         }.bind(this)
       )
       .catch(error => console.log(error));
   }
+
+  handleItemClick = category => {
+    this.setState({ category: category, activeItem: category.name });
+    console.log(category);
+  };
 
   render() {
     const { categories_info, services_info } = this.state;
@@ -70,59 +83,77 @@ class ServiceCategories extends React.Component {
     for (i = 0; i < services_info.length; i++) {
       services.push(services_info[i]);
     }
-
+    const { activeItem, category } = this.state;
     return (
-      <div className="Categories">
-        <Segment basic>
-          <Grid textAlign="center">
-            <GridRow>
-              <Header as="h1">Service Categories</Header>
-            </GridRow>
-            <Segment.Group>
-              {categories.map(function(category, i) {
-                return (
-                  <Segment basic padded key={i}>
-                    <Segment basic>
-                      <Grid>
-                        <GridRow>
-                          <Header as="h2" color="brown">
-                            {category.name}
-                          </Header>
-                        </GridRow>
-                        <GridRow>
-                          <Header as="h3">{category.short_desc}</Header>
-                        </GridRow>
-                        <GridRow>
-                          <Header as="h5">
-                            <div
-                              dangerouslySetInnerHTML={{
-                                __html: category.long_desc
-                              }}
-                            />
-                          </Header>
-                        </GridRow>
-                        <GridRow>
-                          <Segment>
-                            {services.map(function(service, i) {
-                              if (category.name === service.category) {
-                                return (
-                                  <Header key={i} as="h5">
-                                    Matched
-                                  </Header>
-                                );
-                              }
-                            })}
-                          </Segment>
-                        </GridRow>
-                      </Grid>
-                    </Segment>
-                  </Segment>
-                );
-              })}
-            </Segment.Group>
-          </Grid>
-        </Segment>
-      </div>
+      <Grid>
+        <GridRow>
+          <Grid.Column width={5}>
+            <Segment basic>
+              <Menu fluid vertical tabular>
+                {categories
+                  ? categories.map(
+                      function(category, i) {
+                        return (
+                          <Menu.Item
+                            key={i}
+                            name={category.name}
+                            active={activeItem === category.name}
+                            onClick={() => this.handleItemClick(category)}
+                          >
+                            <Header as="h4">{category.name}</Header>
+                          </Menu.Item>
+                        );
+                      }.bind(this)
+                    )
+                  : "Loading"}
+              </Menu>
+            </Segment>
+          </Grid.Column>
+
+          <Grid.Column stretched width={11}>
+            <Segment basic>
+              <div className="Categories">
+                <Segment basic>
+                  <Grid>
+                    <GridRow>
+                      <Header as="h2" color="brown">
+                        {category ? category.name : "Loading"}
+                      </Header>
+                    </GridRow>
+                    <GridRow>
+                      <Header as="h3">
+                        {category ? category.short_desc : "Loading"}
+                      </Header>
+                    </GridRow>
+                    <GridRow>
+                      <Header as="h5">
+                        {category ? (
+                          <Template>{category.long_desc}</Template>
+                        ) : (
+                          "Loading"
+                        )}
+                      </Header>
+                    </GridRow>
+                  </Grid>
+                </Segment>
+              </div>
+            </Segment>
+          </Grid.Column>
+        </GridRow>
+        <GridRow>
+          <Segment basic>
+            {category
+              ? services.map(function(service, i) {
+                  if (category.name === service.category) {
+                    return (
+                      <ServiceCategoryItem key={i} serviceItem={service} />
+                    );
+                  }
+                })
+              : "Loading"}
+          </Segment>
+        </GridRow>
+      </Grid>
     );
   }
 }

@@ -3,6 +3,7 @@ import React from "react";
 import Axios from "axios";
 import * as API_CONSTANTS from "../../Common/APIConstants";
 import { Grid, Segment, GridRow, Header } from "semantic-ui-react";
+import { Template } from "../../Common/HelperComponents/Template";
 
 class FetchBrandDescription extends React.Component {
   constructor(props) {
@@ -52,11 +53,7 @@ class FetchBrandDescription extends React.Component {
             <GridRow>
               <Header as="h5">
                 {brand_info ? (
-                  <div
-                    dangerouslySetInnerHTML={{
-                      __html: brand_info[0]["long_desc"]
-                    }}
-                  />
+                  <Template>{brand_info[0]["long_desc"]}</Template>
                 ) : (
                   "Loading"
                 )}
