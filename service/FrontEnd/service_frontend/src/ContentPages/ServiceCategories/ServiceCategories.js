@@ -148,6 +148,8 @@ class ServiceCategories extends React.Component {
                     return (
                       <ServiceCategoryItem key={i} serviceItem={service} />
                     );
+                  } else {
+                    return "";
                   }
                 })
               : "Loading"}

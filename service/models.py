@@ -146,11 +146,11 @@ class ServiceImage(models.Model):
 
 class ContactMessage(models.Model):
     id = models.AutoField(primary_key=True)
-    sender_name = models.TextField(default="")
     sender_email = models.TextField(default="")
     subject = models.TextField(default="")
     msg = models.TextField(default="")
     msg_time = models.TimeField()
+    file = models.FileField(upload_to='uploaded/attachments/')
 
     def __str__(self):
         return self.subject
@@ -164,3 +164,7 @@ class AppointmentRequest(models.Model):
 
     def __str__(self):
         return (self.service_name + "_" + str(request_duration))
+
+class TemporaryFileUpload(models.Model):
+    upload_id = models.CharField(primary_key=True, max_length=50)
+    file = models.FileField(upload_to='uploaded/attachments/')

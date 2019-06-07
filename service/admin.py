@@ -1,6 +1,7 @@
 from django.contrib import admin
 from service.models import AboutUs, Brand, ContactNumber, Address, \
-    HoursOfOperation, Category, Service, ServiceImage, AppointmentRequest, ContactMessage
+    HoursOfOperation, Category, Service, ServiceImage, AppointmentRequest, \
+    ContactMessage, TemporaryFileUpload
 
 # Register your models here.
 
@@ -32,10 +33,13 @@ class ServiceImageAdmin(admin.ModelAdmin):
     list_display = ('id', 'service_name', 'image')
 
 class ContactMessageAdmin(admin.ModelAdmin):
-    list_display = ('id', 'sender_name', 'sender_email', 'subject', 'msg', 'msg_time')
+    list_display = ('id', 'sender_email', 'subject', 'msg', 'msg_time', 'file')
 
 class AppointmentRequestAdmin(admin.ModelAdmin):
     list_display = ('id', 'service_name', 'request_date', 'request_time', 'request_duration')
+
+class TemporaryFileUploadAdmin(admin.ModelAdmin):
+    list_display = ('upload_id', 'file')
 
 admin.site.register(AboutUs, AboutUsAdmin)
 admin.site.register(Brand, BrandAdmin)
@@ -47,3 +51,4 @@ admin.site.register(Service, ServiceAdmin)
 admin.site.register(ServiceImage, ServiceImageAdmin)
 admin.site.register(ContactMessage, ContactMessageAdmin)
 admin.site.register(AppointmentRequest, AppointmentRequestAdmin)
+admin.site.register(TemporaryFileUpload, TemporaryFileUploadAdmin)

@@ -3,6 +3,7 @@ import { Divider, Tab } from "semantic-ui-react";
 import * as COLORS from "../Common/ColorConstants";
 import ServiceHome from "../ContentPages/ServiceHome/ServiceHome";
 import ServiceCategories from "../ContentPages/ServiceCategories/ServiceCategories";
+import ContactUs from "../ContentPages/ContactUs/ContactUs";
 
 class ServiceMenu extends Component {
   state = { color: COLORS.COLOR_BLACK, content_color: COLORS.COLOR_VIOLET };
@@ -31,7 +32,11 @@ class ServiceMenu extends Component {
       },
       {
         menuItem: "ContactUs",
-        render: () => <Tab.Pane attached={false}>Contact Us</Tab.Pane>
+        render: () => (
+          <Tab.Pane attached={false}>
+            <ContactUs />
+          </Tab.Pane>
+        )
       },
       {
         menuItem: "AboutUs",
