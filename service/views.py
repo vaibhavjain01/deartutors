@@ -94,6 +94,20 @@ class ServiceThumbView(generics.RetrieveAPIView):
         img = Service.objects.all().filter(main_pic__contains=kwargs['img_name'])[0].main_pic
         return HttpResponse(img, content_type="image/png")
 
+class AboutUsImageView(generics.RetrieveAPIView):
+    model = AboutUs
+    def get(self, request, *args, **kwargs):
+        print(kwargs['img_name'])
+        img = AboutUs.objects.all().filter(image__contains=kwargs['img_name'])[0].image
+        return HttpResponse(img, content_type="image/png")
+
+class AboutUsResumeView(generics.RetrieveAPIView):
+    model = AboutUs
+    def get(self, request, *args, **kwargs):
+        print(kwargs['file_name'])
+        resume_pdf = AboutUs.objects.all().filter(resume_pdf__contains=kwargs['file_name'])[0].resume_pdf
+        return HttpResponse(resume_pdf, content_type="application/pdf")
+
 class FileUploadView(APIView):
     parser_classes = (MultiPartParser,)
 

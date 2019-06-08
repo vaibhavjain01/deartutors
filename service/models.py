@@ -76,6 +76,7 @@ class AboutUs(models.Model):
     title = models.TextField()
     short_description = models.TextField()
     long_description = models.TextField()
+    resume_pdf = models.FileField(upload_to='uploaded/resume/')
 
     class Meta:
         ordering = ('id',)

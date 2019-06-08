@@ -4,6 +4,7 @@ import * as COLORS from "../Common/ColorConstants";
 import ServiceHome from "../ContentPages/ServiceHome/ServiceHome";
 import ServiceCategories from "../ContentPages/ServiceCategories/ServiceCategories";
 import ContactUs from "../ContentPages/ContactUs/ContactUs";
+import AboutUs from "../ContentPages/AboutUs/AboutUs";
 
 class ServiceMenu extends Component {
   state = { color: COLORS.COLOR_BLACK, content_color: COLORS.COLOR_VIOLET };
@@ -27,11 +28,7 @@ class ServiceMenu extends Component {
         )
       },
       {
-        menuItem: "BookAnAppointment",
-        render: () => <Tab.Pane attached={false}>Appointment</Tab.Pane>
-      },
-      {
-        menuItem: "ContactUs",
+        menuItem: "Contact",
         render: () => (
           <Tab.Pane attached={false}>
             <ContactUs />
@@ -39,8 +36,12 @@ class ServiceMenu extends Component {
         )
       },
       {
-        menuItem: "AboutUs",
-        render: () => <Tab.Pane attached={false}>AboutUs</Tab.Pane>
+        menuItem: "About",
+        render: () => (
+          <Tab.Pane attached={false}>
+            <AboutUs />
+          </Tab.Pane>
+        )
       }
     ];
 

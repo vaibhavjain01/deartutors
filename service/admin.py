@@ -9,7 +9,7 @@ class CategoryAdmin(admin.ModelAdmin):
     list_display = ('id', 'name', 'short_desc', 'long_desc')
 
 class AboutUsAdmin(admin.ModelAdmin):
-    list_display = ('id', 'title', 'image', 'short_description', 'long_description')
+    list_display = ('id', 'title', 'image', 'short_description', 'long_description', 'resume_pdf')
 
 class BrandAdmin(admin.ModelAdmin):
     list_display = ('id', 'name', 'contact_number', 'title', 'short_desc', 'long_desc', 'address',

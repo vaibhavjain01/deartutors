@@ -61,7 +61,7 @@ class HoursOfOperationSerializer(serializers.ModelSerializer):
 class AboutUsSerializer(serializers.ModelSerializer):
     class Meta:
         model = AboutUs
-        fields = ('id', 'title', 'image', 'short_description', 'long_description')
+        fields = ('id', 'title', 'image', 'short_description', 'long_description', 'resume_pdf')
         read_only_fields = fields
 
 class ServiceSerializer(serializers.ModelSerializer):

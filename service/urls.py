@@ -20,6 +20,8 @@ urlpatterns = [
     path('media/images/brand_logo/<str:img_name>', views.BrandLogoView.as_view()),
     path('media/images/brand_web_page_logo/<str:img_name>', views.BrandWebPageLogoView.as_view()),
     path('media/images/service/thumb/<str:img_name>', views.ServiceThumbView.as_view()),
+    path('media/images/aboutus/<str:img_name>', views.AboutUsImageView.as_view()),
+    path('media/uploaded/resume/<str:file_name>', views.AboutUsResumeView.as_view()),
     path(r'upload/', views.FileUploadView.as_view()),
     path('contactus/', views.ContactUsView.as_view()),
 ]
