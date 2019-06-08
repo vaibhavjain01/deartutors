@@ -6,12 +6,14 @@ from rest_framework.parsers import MultiPartParser
 from django.http import HttpResponse
 from django.core import serializers
 from uuid import uuid4
+import json
+from datetime import datetime
 
 from service.serializers import BrandSerializer, ContactNumberSerializer, \
     AddressSerializer, CategorySerializer, HoursOfOperationSerializer, \
     AboutUsSerializer, ServiceSerializer, ServiceImageSerializer
 from service.models import Brand, ContactNumber, Address, Category, HoursOfOperation, \
-    AboutUs, Service, ServiceImage, TemporaryFileUpload
+    AboutUs, Service, ServiceImage, TemporaryFileUpload, ContactMessage
 
 # Create your views here.
 
@@ -116,3 +118,29 @@ class FileUploadView(APIView):
         uploaded_file = TemporaryFileUpload.objects.get(upload_id=upload_id)
         uploaded_file.delete()
         return Response(upload_id, content_type="text/plain")
+
+class ContactUsView(APIView):
+    def post(self, request):
+        try:
+            post_data = json.loads(request.body.decode('utf-8'))
+            message = post_data["message"]
+            email = post_data["email"]
+            subject = post_data["subject"]
+            uploaded_file_ids = post_data["uploaded_file_ids"]
+            uploaded_file_id = uploaded_file_ids[0]
+            uploaded_file_id = uploaded_file_id[1:-1]
+            print(email, subject, message, uploaded_file_id, uploaded_file_ids)
+            uploaded_file = TemporaryFileUpload.objects.get(upload_id=uploaded_file_id)
+            
+            contact_us_obj = ContactMessage(subject = subject,
+                                            msg = message,
+                                            sender_email = email,
+                                            msg_time = datetime.now(),
+                                            file = uploaded_file.file)
+            contact_us_obj.save()
+            uploaded_file.delete()
+            print(email, subject, message, uploaded_file_ids)
+        except:
+            print("Operation Failed", e)
+            return Response(status.HTTP_400_BAD_REQUEST)
+        return Response(status.HTTP_200_OK)

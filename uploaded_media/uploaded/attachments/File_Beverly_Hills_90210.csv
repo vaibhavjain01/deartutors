@@ -1,0 +1,601 @@
+slno,Driver Id,Driver Name,Email,Mobile,City,State,Country,ZipCode,Reg Date,License Exp Date,License No,Reg No,License Plate No,Vehicle Color,Model,Type,Workplace Type,Workplace Type Description,Last Activity Date Time,Drvier Status,Distance
+15,21731,Katherine Phakeovilay ,nittaya562@gmail.com,5625082288,paramount,ca,us,90723,2019-05-17 04:48:35,2022-06-16,D9035880,nan,nan,nan,nan,nan,nan,nan,2019-05-17 04:52:26,Signed Up,44.3
+33,21713,Eric McCoy,ericpmccoy@gmail.com,3106969759,Los Angels,California,United States,90018,2019-05-15 16:40:57,2023-09-28,C2841338,nan,7gnd213,White ,Sonata,Hyundai,Car,Car services,2019-05-15 16:40:57,Signed Up,12.1
+35,21711,Eric McCoy,ericpmccoy@yahoo.com,310696975,Los Angels,California,United States,90018,2019-05-15 16:33:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-15 16:33:51,Signed Up,13.3
+40,21706,Derek Hall,mike585867@yahoo.com,3235804149,Los angeles,California,United states,90043,2019-05-15 06:06:32,2022-12-13,A5608015 ,nan,Ca 8euv755,Silver,Altima,Nissan,Car,Car services,2019-05-15 06:06:32,Signed Up,14.5
+51,21695,Samuel Flores,rodolfoleiva753@gmail.com,5716603445,Los Angeles,82nd St,USA,90044,2019-05-14 14:12:03,nan,E62425243,nan,nan,nan,nan,nan,nan,nan,2019-05-14 14:12:03,Signed Up,26.6
+89,21657,Stephanie Higa,songbird27177@gmail.com,6264799388,West Covina,Ca,United States,91790,2019-05-10 17:43:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-10 17:43:00,Signed Up,51.2
+90,21656,Stephanie Higa,higsteph733@gmail.com,6264799388,West Covina,Ca,Usa,91790,2019-05-10 17:36:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-10 17:36:55,Signed Up,51.2
+121,21625,Dearl Cammell,cammelldearl@gmail.com,+13232046906,Los Angeles,California,Usa,90018,2019-05-07 22:54:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-07 22:54:20,Signed Up,13.3
+195,21551,Maurice Bates,donknitty@yahoo.com,3236005255,Los Angeles,California,United States Of America,91350,2019-05-02 18:31:42,2020-10-13,F2946249,nan,7ENJ101,White,H3,Hummer,Car,Car services,2019-05-02 18:31:42,Signed Up,57.4
+202,21544,Donald Cabre,alexxxflow@gmail.com,323667633,Los Angeles,California,Eeuu,90006,2019-05-01 23:01:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-01 23:01:51,Signed Up,11.3
+221,21525,David  Babtkis,DavidBabtkis@yahoo.com,3234224639,Torrance ,California ,USA,90505,2019-04-30 16:30:23,2023-03-13,A7025809,nan,nan,nan,nan,nan,nan,nan,2019-05-03 15:28:12,Signed Up,31.6
+250,21496,David Haliburton ,sean.haliburton213@gmail.com,2139092704,Los Angeles ,California ,U.S.,90011,2019-04-28 11:00:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-30 21:41:38,Signed Up,21.9
+261,21485,Mikey Torres,mtorresahm@gmail.com,7147473135,Anaheim,California,USA,92801,2019-04-27 15:14:28,2019-09-22,D6006082,nan,7SWC998,Crystal Black P,Civic,Honda,Car,Car services,2019-04-27 15:14:28,Signed Up,55.5
+277,21469,George Tsabadze,stramanta@yahoo.com,6262230033,Los angeles,California,los angeles,90045,2019-04-26 23:02:39,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-26 23:02:39,Signed Up,18.3
+285,21461,Cynthia Sleeper,sleepercindi@gmail.com,7142255948,Anaheim,3181 W Rome Ave,Orange,92804,2019-04-26 05:09:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-26 05:09:25,Signed Up,56.0
+304,21442,Shawn moore,joedirrt82@gmail.com,7472664207,vannuys,california,america,91406,2019-04-24 09:47:14,2019-08-03,D2909058,nan,nan,nan,nan,nan,nan,nan,2019-04-24 09:47:14,Signed Up,26.0
+323,21423,Maya Phillips,mahogganyblue101@gmail.com,3232730410,Los Angeles,California,Usa,90059,2019-04-23 11:50:04,1969-12-31,B6438402,nan,78KP901,White,X1,BMW,Car,Car services,2019-04-23 11:50:04,Signed Up,34.2
+338,21408,Shakeeda Readoux,kidkeedakd@yahoo.com,7143488650,Fullerton,CA,United States,92833,2019-04-22 18:36:54,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-22 18:37:55,Signed Up,53.6
+365,21381,Corina Lopez,cl.uberdrives@gmail.com,3238186196,Anaheim,ca,United States,92804,2019-04-20 12:47:53,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-29 20:41:07,Signed Up,56.1
+385,21361,Shamonda Hall,shamondahall2@gmail.com,3239845244,Gardena,California,United State,90248,2019-04-18 17:39:15,2020-08-12,B8646258,nan,4nku718,Tan,Sienna,Toyota,Car,Car services,2019-04-18 17:39:15,Signed Up,36.4
+394,21352,Latranise Williams,ms.29williams@gmail.com,2139159402,Los Angeles,Ca,Us,90044,2019-04-18 12:45:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-18 12:45:36,Signed Up,27.5
+402,21344,Maya Phillips,sassysun101@gmail.com,3232730410,Los Angeles,California,Usa,90059,2019-04-17 21:03:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-17 21:03:22,Signed Up,34.2
+406,21340,Latranise Williams,ms.30williams@gmail.com,2139159402,Los Angeles,California,US,90044,2019-04-17 15:52:43,1969-12-31,0,nan,nan,nan,nan,nan,nan,nan,2019-04-17 15:52:43,Signed Up,27.5
+407,21339,Edith  Yolanda  Garza  Espino ,moxiea123@gmail.com,3107012805,west Los Angeles ,CA ,usa ,90025,2019-04-17 15:51:15,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-08 06:59:55,Signed Up,5.9
+440,21306,Claudia Sais,msclaudiasais@gmail.com,+15623331172,La Puente,California,United,91744,2019-04-16 10:10:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-16 10:10:55,Signed Up,55.3
+456,21290,Felicia Caldwell,feliciacadwell98@gmail.com,3235355495,Los Angeles,California,United State,90016,2019-04-15 17:50:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-15 17:50:08,Signed Up,9.2
+464,21282,James Gordon,jcleeleeboo@gmail.com,+12132979334,Los Angeles,California,United States,90044,2019-04-15 10:10:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-15 10:10:59,Signed Up,27.5
+481,21265,Bakul Patel,patelbakul00@gmail.com,7145016464,Anaheim,California,USA,92802,2019-04-14 13:50:27,2023-04-01,F7074061,nan,8HLY111,White,Prius,Toyota,Car,Car services,2019-04-14 13:50:27,Signed Up,59.2
+553,21193,Elizabeth Reyes,spikenic@yahoo.com,5629006220,Long beach,California,United States of America,90802,2019-04-12 13:17:13,2023-03-21,N4706150 ,nan,8DNW814,Red,Niro,Kia,Car,Car services,2019-04-12 13:17:13,Signed Up,50.1
+610,21135,Cynthia Sleeper,102969cindi@gmail.com,+15623179683,Anaheim,California,United States,92804,2019-04-09 10:32:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-09 10:32:32,Signed Up,56.1
+653,21092,Douglas Paige,alan6969p@gmail.com,19495143819,Huntington Beach,California,United States Of America,92649,2019-04-06 13:43:25,2022-06-23,D1586719,nan,8gpy105,Silver,Malibu,Chevrolet,Car,Car services,2019-04-06 13:43:25,Signed Up,68.7
+734,21008,Nino Sarkis,nino6901@yahoo.com,6614869420,Los Angeles,Ca,USA,91326,2019-04-01 21:49:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-01 21:49:43,Signed Up,40.8
+741,21001,John Lopez,pmbuber77@gmail.com,4243669402,Los Angeles,California,Usa,90014,2019-04-01 15:51:11,0222-09-21,B5628264,nan,8how888,Black,Rogue,Nissan,Car,Car services,2019-04-01 15:51:11,Signed Up,19.3
+742,21000,John Lopez,gabelopez76@gmail.com,+14243669402,Los Angeles,California,Usa,90014,2019-04-01 15:48:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-01 15:48:47,Signed Up,19.3
+768,20974,John Lopez,lopez_jg@ymail.com,+14243669402,Los Angeles,California,Usa,90014,2019-03-30 19:46:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-30 19:46:21,Signed Up,19.3
+900,20838,Telisha Webb,webbtelisha@gmail.com,6624323681,Hawthorne,West Broadway,Usa,90250,2019-03-23 02:24:56,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-23 02:24:56,Signed Up,24.5
+902,20836,Raelyn Mohammed,raelynmohammed@gmail.com,+19493067626,Pasadena,Ca,Us,91030,2019-03-23 00:28:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-23 00:28:17,Signed Up,32.6
+949,20789,Christine Pruitt,chitowngirlinacaliworld@gmail.com,7738188241,Camarillo,CA,USA,93010,2019-03-19 21:45:42,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-19 21:45:51,Signed Up,80.0
+956,20782,Hrant Dzhandyan,grant777@mail.com,8188183925,Tujunga,California,USA,91042,2019-03-19 14:26:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-19 16:48:43,Signed Up,57.5
+957,20781,Hrant Dzhandyan,grant777@mile.com,8188183925,Tujunga,California,USA,91042 ,2019-03-19 14:23:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-19 14:23:39,Signed Up,57.5
+985,20753,Daniel Garrisonpaschal,danielpaschal29@gmail.com,4243647990,Los Angeles,California,Ca,90013,2019-03-18 03:12:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-18 03:12:57,Signed Up,16.9
+1015,20723,Maurice Bates,mbates661@att.net,3236005255,Los Angeles,California,USA,91350,2019-03-15 16:46:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-15 16:46:14,Signed Up,57.4
+1042,20695,Lexus  Jackson ,lexee711@gmail.com,8188239931,Los Angeles ,CA,USA,90034,2019-03-14 00:10:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-21 10:06:20,Signed Up,4.5
+1080,20656,Michael Shaw,mikeshaw2777@gmail.com,+13239840812,Los Angeles,California,United States,90291,2019-03-11 21:30:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-11 21:30:19,Signed Up,13.0
+1082,20654,Alfa Castanon,sunny072018@outlook.com,5623483890,Longbeach,ca,united states,90804,2019-03-11 19:52:27,2020-07-15,E2225784,nan,nan,nan,nan,nan,nan,nan,2019-03-11 19:52:27,Signed Up,51.1
+1105,20631,Anthony Schmid,gbm44ant@gmail.com,6574656548,Los Angeles,California,Usa,90095,2019-03-10 15:41:04,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-10 15:41:04,Signed Up,5.4
+1120,20616,Elias Orozco,eliasorozco1991@gmail.com,3233545859,Los Angeles,California,USA,90037,2019-03-09 11:52:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-09 11:52:21,Signed Up,20.4
+1126,20610,Richard Scheufele,tizzod2@gmail.com,8184891283,Sylmar,California,U.S.A.,91342,2019-03-09 07:54:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-09 07:54:36,Signed Up,44.9
+1134,20602,Dan Reisenfeld,stealthwind52@gmail.com,4245379641,Los Angeles,California,USA,90066,2019-03-08 16:03:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-08 16:03:07,Signed Up,10.4
+1136,20600,Dan Reisenfeld,dan.reisenfeld@gmail.com,4245379641,Los Angeles,California,USA,90066,2019-03-08 15:34:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-08 15:34:48,Signed Up,10.4
+1150,20586,Kevin Khoun,kevinkhoun999@gmail.com,5624711838,Torrance ,ca,United States ,90504,2019-03-07 23:05:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-07 23:11:14,Signed Up,30.6
+1153,20583,Steven Kha,scvakha99@gmail.com,6263832346,Rosemead,Ca,Usa,91770,2019-03-07 14:50:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-07 14:50:14,Signed Up,38.4
+1158,20578,Julian Lopez,julianlopez9292@gmail.com,3239258266,Los Angeles,California,Usa,90037,2019-03-07 11:56:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-07 11:56:01,Signed Up,20.4
+1166,20570,Kenneth Trefts,kennethtrefts@gmail.com,3109445603,San Pedro,California,United States,90731,2019-03-07 00:47:23,2021-12-07,D3852030,nan,4swh334,Silver ,5-Series,BMW,Car,Car services,2019-03-07 00:47:23,Signed Up,50.4
+1203,20533,Leticia Marin,marinmadness@gmail.com,8184308256,Van Nuys,Ca,Los Angeles,91405,2019-03-05 08:00:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-05 08:00:26,Signed Up,24.7
+1211,20525,Leticia Marin,www.marinmadness@gmail.com,8184308259,Van Nuys,Ca,Los ANGELES,91405,2019-03-04 20:56:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-04 20:56:03,Signed Up,24.7
+1240,20496,Jordan Orozco,isaiahoro12@gmail.com,9096769049,Los Angeles,California,United States,90047,2019-03-03 09:31:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-03 09:31:25,Signed Up,20.9
+1244,20492,Desimber Welch,reddreamscometrue@gmail.com,4242403056,Desimber,Welch,La,90250,2019-03-03 04:54:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-03 04:54:57,Signed Up,24.6
+1252,20484,Dan Reisenfeld,danreisenfeld@gmail.com,4245379641,Los Angeles,California,USA,90066,2019-03-02 15:51:31,2020-05-11,b4615507,nan,4SYS043,white,Camry,Toyota,Car,Car services,2019-03-02 15:51:31,Signed Up,10.4
+1260,20476,Robert Mnoyan,protivzakon777@gmail.com,8189153866,Los Angeles,California,USA,91606,2019-03-02 00:27:02,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-02 00:27:02,Signed Up,17.8
+1301,20435,Josselyn lagos,jalm2880@gmail.com,3107061851,canoga park,California,united states,91304,2019-02-26 21:49:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-26 21:49:25,Signed Up,43.8
+1395,20341,Brian Wong,brianwong720@gmail.com,6263472493,Temple city,California,Us,91780,2019-02-21 21:32:00,1969-12-31,D9024652,nan,nan,nan,nan,nan,nan,nan,2019-02-21 21:32:00,Signed Up,43.6
+1510,20224,Victor Zaragoza,V.M.ZARAGOZA85@Gmail.com,9493860110,Santa Ana,California,United States Of America,92704,2019-02-15 18:00:22,1969-12-31,0,nan,nan,nan,nan,nan,nan,nan,2019-02-15 18:00:22,Signed Up,78.7
+1527,20207,Cristobal Varela,qcristobal248@gmail.com,+19512301297,Upland,California,United State,91786,2019-02-14 18:03:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-14 18:03:25,Signed Up,79.1
+1600,20134,Joshua Gilmore,jennath664362@gmail.com,3017420918,North Hollywood,California,USA,91601,2019-02-11 21:32:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-11 21:32:19,Signed Up,18.7
+1621,20111,Blanca  Alvarez ,areliquezada52@gmail.com,3233990181,Los Angeles ,California ,Unate States ,90016,2019-02-10 13:25:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-10 13:25:21,Signed Up,9.2
+1623,20109,Heather ortiz,ortizheather1609@yahoo.com,6265606434,la puente,ca,usa,91744,2019-02-10 12:42:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-10 12:42:57,Signed Up,55.3
+1650,20082,Maribel Perez,maribelperez35@gmail.com,8183313894,Glendale,California,United States,91205,2019-02-09 08:50:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-09 08:50:11,Signed Up,29.8
+1682,20048,Jason Morales,vwlovermorales@yahoo.com,3238025763,Los Angeles,Ca,United States of America,90016,2019-02-07 14:25:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-07 14:25:25,Signed Up,9.2
+1688,20042,Allen TestRubin,newyorkbigal@Gmail.com,3102003515,Redondo Beach,CA,USA ,90277,2019-02-07 11:37:46,2019-03-14,n9912345678,nan,nan,nan,nan,nan,nan,nan,2019-02-12 19:22:19,Signed Up,35.5
+1745,19983,Daniel Sowah,adjeteysowah44@gmail.com,13236408267,Los Angeles,California,U.s.a,90008,2019-02-05 12:43:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-05 12:43:13,Signed Up,11.1
+1752,19976,Sarkis Krikorian ,drsakokrikorian@yahoo.com,6265908181,pasadena ,ca,united states,91107,2019-02-05 12:19:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-03-22 07:20:58,Signed Up,45.2
+1777,19951, Patrice Escovedo ,patriceesco2@gmail.com,8052178977,Thousand Oaks ,California ,United States of America,91320,2019-02-04 16:47:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-04 16:48:48,Signed Up,66.4
+1789,19939,Abraham Ayala,abrahamayala13@yahoo.com,5622708669,Long Beach,Ca,U.s.a,90802,2019-02-04 01:05:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-04 01:05:47,Signed Up,50.1
+1796,19932,Julio Pedroso,juliocesar1995.95@gmail.com,+15626765324,Bellflower,CA,United states,90706,2019-02-03 19:28:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-03 19:28:30,Signed Up,51.5
+1858,19870,Hok thong,hokthongandnovianita@gmail.com,6263413316,monterey park,california,USA,91754,2019-01-31 08:26:09,2020-12-17,F4929243  ,nan,nan,nan,nan,nan,nan,nan,2019-01-31 08:26:09,Signed Up,31.0
+1864,19864,Jose Vazquez,vazquezja2154@gmail.com,18184515142,Pacoima,C.A.,Los Angeles,91331,2019-01-30 19:45:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-30 19:45:23,Signed Up,27.3
+1872,19856,Cody B Willis,willis21cody@gmail.com,3235784100,Los Angeles ,ca,usa,90029,2019-01-30 07:14:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-30 07:14:49,Signed Up,11.4
+1889,19839,Christina  Ghukasyan ,kissulyaalexandervna@gmail.com,3233941747,north Hollywood ,ca,Los Angeles ,91605,2019-01-29 13:02:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-07 21:01:22,Signed Up,19.4
+1957,19771,Alfred Gallegos,iloveblazing094@gmail.com,+12139101269,Los Angeles,California,United States,90032,2019-01-26 12:02:16,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-26 12:02:16,Signed Up,31.7
+1973,19755,Latasha Ferrell,latashaferrell84@yahoo.com,9493088541,Buena Park,Ca,United States,90621,2019-01-25 22:38:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-25 22:38:31,Signed Up,52.3
+1978,19750,Jamshid Davarpanah,jamshid150@yahoo.com,3236972906,Los angels,California,American,90027,2019-01-25 17:53:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-25 17:53:27,Signed Up,15.0
+1998,19730,Robert payan,rdpayanjr@gmail.com,+15625134511,Alhambra,Ca,United States,91801,2019-01-25 02:49:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-25 02:49:43,Signed Up,35.6
+2016,19712,Armen Shahbazian,armromka@mail.ru,7472579512,Los Angeles,Ca,Glendale,91206,2019-01-24 12:35:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-24 12:35:20,Signed Up,32.2
+2064,19664,Larry Arias,laarias.08@gmail.com,6266786240,Pomona,Ca,USA,91768,2019-01-22 21:20:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-22 21:20:23,Signed Up,66.8
+2096,19632,Brian Wong,bw59412@gmail.com,6263472493,Temple city,California,US,91780,2019-01-22 01:04:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-22 01:04:26,Signed Up,43.6
+2151,19577,Andrea Vargas,andreavargas1415@gmail.com,8186792301,Los Angeles,Ca,America,90016,2019-01-20 01:36:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-20 01:36:00,Signed Up,9.2
+2170,19558,William Pernas,wllmprns464@gmail.com,9096789636,Marina Del Rey,California,United States,90066,2019-01-19 10:53:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-19 10:53:43,Signed Up,10.4
+2176,19552,Yolande boyom,indiramendel@gmail.com,4704435856,14728 friar st,van nuys,united state,Ca 91411,2019-01-19 08:35:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-19 08:35:08,Signed Up,18.1
+2180,19548,Laura Taylor,luvbglaura@gmail.com,3104335346,Los Angeles,Ca,United States,90059,2019-01-19 06:27:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-19 06:27:23,Signed Up,33.0
+2185,19543,Lizette Zarate,Lizette.lasc@gmail.com,3238341407,Los Angeles,California,United States,90001,2019-01-18 20:57:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-18 20:57:37,Signed Up,25.8
+2189,19539,Sarina  Eldredge ,Sarinae91@gmail.com,6263624077,West Covina ,California ,United States ,91790,2019-01-18 17:45:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-18 17:45:53,Signed Up,51.2
+2190,19538,Nabil Alsaid,nabil.n.alsaid@hotmail.com,6195525305,San Diego,California,Usa,11911,2019-01-18 19:43:04,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-18 19:43:04,Signed Up,18.8
+2254,19474,Monique Almeida,nikie1134@gmail.com,3232396592,Los Angeles,California,USA,90022,2019-01-17 03:25:09,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-17 03:25:09,Signed Up,30.0
+2268,19460,Traeveon Jones,gherri4494@gmail.com,+15623627069,Lakewood,Ca,United States,90712,2019-01-16 16:55:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-16 16:55:14,Signed Up,51.9
+2313,19415,Edward Ricks,eddiericks21579@gmail.com,3233384494,Los Angeles,California,USA,90047,2019-01-15 13:32:10,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-15 13:32:10,Signed Up,21.2
+2316,19412,Traeveon Jones,mrjones576@gmail.com,+15623627069,Lakewood,5022 1/2,United States,90712,2019-01-15 12:26:40,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-15 12:26:40,Signed Up,51.0
+2321,19407,Eduardo Osorio,anthonye4o@gmail.com,+19496133892,Garden Grove,CA,US,92841,2019-01-15 10:09:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-15 10:09:12,Signed Up,70.6
+2325,19403,Renee Lopez,copper7909@gmail.com,3234232254,West Covina,CA,USA,91791,2019-01-15 09:42:11,nan,0,nan,nan,nan,nan,nan,nan,nan,2019-01-15 09:42:11,Signed Up,57.3
+2377,19351,JASON PAYNE,jp.enterprised12@gmail.com,2139084587,LOS ANGELES,CA,USA,90043,2019-01-13 18:14:45,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-13 18:14:45,Signed Up,14.5
+2382,19346,Curtis Bevans,camsamsgm@gmail.com,3237885058,Los Angeles,California,United states,90059,2019-01-13 14:36:00,2021-04-27,D2673765,nan,nan,nan,nan,nan,nan,nan,2019-01-13 14:36:00,Signed Up,34.2
+2392,19336,Monacherejs Ellsworth,monacherejs4334@gmail.com,3237025012,Los Angels,CA,California,90044,2019-01-13 10:27:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-13 10:27:55,Signed Up,27.5
+2409,19319,Samuel Rucker,ogrucker33@gmail.com,+13235068069,Los Angeles,California,United States,90011,2019-01-12 16:49:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-12 16:49:47,Active,21.9
+2419,19309,Fernando Gonzalez,fers4x4@gmail.com,8185888025,Burbank,CA,USA,91505,2019-01-12 09:11:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-12 09:11:44,Signed Up,20.3
+2427,19301,Thomas Jones,yehuel94@yahoo.com,+15625413117,Glendale,California,United States,91202,2019-01-12 00:08:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-12 00:08:57,Signed Up,28.0
+2445,19283,Carlos Lopez,carloslopezsosa@hotmail.com,7148045610,Fullerton,CA,USA,92831,2019-01-11 14:05:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-11 14:05:31,Signed Up,63.2
+2450,19278,Karlen Martirosyan,emil01.10@mail.ru,18182848910,Los Angels,California,North Hollywood,91606,2019-01-11 08:11:56,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-11 08:11:56,Signed Up,17.8
+2461,19267,Donald Cabrera,Alejandroflow80@gmail.com,3236676337,Los Angeles,California,Eeuu,90006,2019-01-10 21:31:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-10 21:31:11,Signed Up,11.3
+2474,19254,Joshua Gilmore,joshuangilmore@gmail.com,3017420918,North Hollywood,California,United States of America,91601,2019-01-10 16:29:31,2020-03-29,F1108413,nan,nan,nan,nan,nan,nan,nan,2019-01-10 16:29:31,Signed Up,18.7
+2500,19227,Angel Garcia,garcia.a2139@gmail.com,2132651622,Los Angeles,Ca,Usa,90004,2019-01-09 21:30:02,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-09 21:30:02,Signed Up,9.8
+2503,19224,Leandro Ferreira,webleo559@gmail.com,+15597364584,Anaheim,Califórnia,United States,92801,2019-01-09 19:06:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-09 19:06:26,Signed Up,55.5
+2550,19177,Benu Mekhat,missbenu@hotmail.com,3238302522,Los Angeles,Ca,Usa,90018,2019-01-08 13:47:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-08 13:47:30,Signed Up,10.2
+2639,19088,Jeffrey Bond,jeffbondt@yahoo.com,3104661191,Westchester,California,USA,90045,2019-01-06 12:19:59,2021-01-11,D4928837,nan,61818x1,Gary,Prius,Toyota,Car,Car services,2019-01-06 12:19:59,Signed Up,18.3
+2653,19074,Erick Gomez,eg257836@gmail.com,5623916073,Long beach,California,USA,90813,2019-01-06 01:08:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-06 01:08:41,Signed Up,45.3
+2673,19054,Socrates Garay,sgarayjh14@gmail.com,3233016905,Glendale,California,USA,91205,2019-01-05 14:39:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-05 14:39:32,Signed Up,29.8
+2694,19033,Barkev Karaoglanian ,barkev1818@gmail.com,8189325150,North Hollywood,CA,United States ,91605,2019-01-05 02:11:01,2020-06-29,D7719775,nan,8DHT419,Gray,Challenger,Dodge,Car,Car services,2019-01-05 04:38:02,Signed Up,19.4
+2696,19031,Narek Sargsyan,narek@nsargsyan.com,8182353717,Van Nuys,CA,USA,91401,2019-01-04 22:15:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-01 21:22:42,Signed Up,16.6
+2697,19030,Raemen Owens,agentowens17@yahoo.com,9034225704,Lakewood,California,United States,90712,2019-01-04 21:57:11,2021-01-12,Y4024968,nan,7PXV355,Black,Sorento,Kia,Truck,Truck services,2019-01-04 21:57:11,Signed Up,51.0
+2699,19028,Hakob Plavjyan,92xofficial@mail.ru,8187700227,Los Angeles,California,United States,91401,2019-01-04 19:59:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-04 19:59:01,Signed Up,16.6
+2703,19024,Louis Trammell,ltrammell1@gmail.com,5626394881,Whittier,CA,United States,90601,2019-01-04 18:32:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-04 18:32:30,Signed Up,43.9
+2746,18979,Carlos Reyes,cr926208@gmail.com,5626418030,Los Angeles,Ca,United States,90059,2019-01-03 21:03:03,nan,Y2471330,nan,Dp036ut,Red,Corolla,Toyota,Car,Car services,2019-01-03 21:03:03,Signed Up,34.2
+2865,18854,Allen Walker,aw@ethanalexandergroup.com,8184302802,Mission Hills,California,U.S.A.,91345,2019-01-01 23:02:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-01 23:02:46,Signed Up,31.9
+2984,18735,Miguel Cosme,mikerican.prg@gmail.com,3233590623,Van Nuys,California,Los Angeles,91405,2018-12-30 19:42:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-30 19:42:48,Signed Up,24.7
+3010,18709,Daniel Martinez,deathisfallen@gmail.com,+18184064623,Woodland Hills,Ca,USA,91367,2018-12-30 14:26:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-30 14:26:13,Signed Up,31.8
+3013,18706,Andre Almond,andrealmond20@gmail.com,8189842073,winnetka,CA,United states,91306,2018-12-30 13:11:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-30 13:11:47,Signed Up,32.4
+3034,18685,Gabriel Acosta,cali4life5583@gmail.com,3233856072,Los Angeles,California,United States Of America,90061,2018-12-30 01:48:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-30 01:48:37,Signed Up,30.8
+3045,18674,Justin Kim,justinktkim@gmail.com,2134535088,Los Angeles,California,United States,90004,2018-12-29 18:40:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-29 18:40:12,Signed Up,9.8
+3061,18658,Alex Estrada,alexestrada40285@yahoo.com,9092883670,Montclair,California,U.S.A,91763,2018-12-29 15:03:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-29 15:03:03,Signed Up,74.6
+3062,18657,Daniel Lopez,adonias_lopez89@hotmail.com,3237810200,Los Angeles,California,Estados Unidos,90044,2018-12-29 15:02:38,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-29 15:02:38,Signed Up,27.5
+3096,18623,LaMeisha Davis,pharaohs.davis@gmail.com,3232525044,Los Angeles,California,United States,90007,2018-12-29 05:41:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-29 05:41:46,Signed Up,16.4
+3116,18603,Mario Estrada,mario.estrada62@yahoo.com,8057965289,Thousand Oaks,California,United states,91360,2018-12-28 17:45:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-28 17:45:36,Signed Up,61.8
+3144,18575,Niesha Hubbard,niesha123@live.com,5625415740,South Gate,California,USA,90280,2018-12-28 10:01:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-28 10:01:27,Signed Up,38.4
+3154,18565,Daniel Sowah,christisreal2014@yahoo.com,33236408267,Los Angeles,California,U.s,90008,2018-12-28 08:40:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-28 08:40:55,Signed Up,11.1
+3236,18483,JJ I,mssunshine13@yahoo.com,3107105345,Los Angeles,CA,USA,90025,2018-12-27 08:57:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-27 08:57:57,Signed Up,5.9
+3294,18425,Adam Vasquez,Vasquez031577@yahoo.com,5626405613,La Habra,Ca,United States,90631,2018-12-26 13:11:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-26 13:11:57,Signed Up,52.3
+3308,18411,Ryan David,calitaz83@gmail.com,3103453299,North Hollywood,California,USA,91606,2018-12-26 13:06:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-26 13:06:25,Signed Up,17.8
+3314,18405,Jesus Rivera,jesusrivera2512@gmail.com,8189425018,Sun Valley,California,USA,91352,2018-12-26 10:31:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-26 10:31:19,Signed Up,28.4
+3347,18372,Huy Pham,hpham113@gmail.com,4246664051,Garden Grove,Ca,United states Of America,92843,2018-12-25 20:32:53,2020-07-26,D5098683,nan,6xmc731,Burgundy,Highlander,Toyota,Car,Car services,2018-12-25 20:32:53,Signed Up,69.9
+3373,18346,Soekamto Handjojo,kamto@sbcglobal.net,4244776334,Torrance,California,United Stated,90505,2018-12-25 12:37:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-25 12:37:27,Signed Up,31.6
+3485,18234,Diego Lorenzo baltazar,diegolbaltazar39@gmail.com,2132651228,Los Angeles,California,Usa,90015,2018-12-23 00:40:16,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-23 00:40:16,Signed Up,14.3
+3503,18216,Al Salas,al.salas@gmail.com,5628427118,Pico rivera,California,Usa,90660,2018-12-22 17:43:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-22 17:43:13,Signed Up,37.3
+3530,18189,Patricea Henderson,patricehenderson21@gmail.com,3232390258,Los Angeles,California,United States,90003,2018-12-22 08:28:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-22 08:28:47,Signed Up,25.2
+3559,18160,Shaan Lal,shaanlal@yahoo.com,5624711393,Buena Park,CA,United States,90620,2018-12-21 21:39:34,2021-06-14,D3420338,nan,nan,nan,nan,nan,nan,nan,2018-12-21 21:39:34,Signed Up,52.8
+3631,18088,Val Yardley,Revdrlight@aol.com,7145143154,Placentia,CA,USA,92870,2018-12-20 22:25:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-20 22:25:33,Signed Up,67.0
+3633,18086,Marcelo Slamon,roadhound1@gmail.com,6613506913,Alhambra,California,United States,91801,2018-12-20 21:47:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-20 21:47:34,Signed Up,35.6
+3638,18081,Victor Escobar,victoralexanderescobar@gmail.com,3234307315,Los Angeles,California,Estados Unidos,90028,2018-12-20 20:46:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-20 20:46:37,Signed Up,9.7
+3665,18054,Felix Antunez,jrantunez13@gmail.com,7149266818,Anaheim,Ca,Usa,92804,2018-12-20 13:04:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-20 13:04:13,Signed Up,57.3
+3678,18041,Basem Messih,basem_rezek@yahoo.com,6193682711,Anaheim ,CA,USA,92806,2018-12-20 10:07:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-02-08 11:42:57,Signed Up,64.2
+3706,18013,Sabrina Mason,pnutt0809@gmail.com,+13233886944,Los Angeles,California,USA,90063,2018-12-19 23:20:42,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-19 23:20:42,Signed Up,26.3
+3711,18008,KONSTANTIN MANUKYAN,manuki1978@gmail.com,7473443333,Glendale,1470 E Wilson Ave Apt212,Usa,91206,2018-12-19 21:19:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-19 21:19:50,Signed Up,30.2
+3742,17977,Eduardo Agostini,eduardo.agostini@gmail.com,+16267665842,Pasadena,California,USA,91107,2018-12-19 13:55:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-19 13:55:32,Signed Up,45.2
+3778,17941,Willie Hill,bleubarryhill@yahoo.com,6692451922,Long Beach,California,United States,90815,2018-12-19 08:49:04,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-19 08:49:04,Signed Up,49.9
+3805,17914,Cesar Melgar,drmelgarm@gmail.com,3237236684,South Gate,California,Estados Unidos,90280,2018-12-18 22:46:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-18 22:46:01,Signed Up,38.4
+3806,17913,Diego Baltazar,diegolbaltazar38@gmail.com,2132651228,Los Angels,Ca,Usa,90015,2018-12-18 22:18:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-18 22:18:07,Signed Up,14.3
+3822,17897,Eileen Dave,mseileen32@gmail.com,5623133993,Bellflower,California,USA,90706,2018-12-18 19:11:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-18 19:11:59,Signed Up,51.9
+3833,17886,CHUKWUEMELIE Agunabo,franklin4realn@yahoo.co.uk,3233816648,Los Angeles,California,America,90045,2018-12-18 17:24:09,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-18 17:24:09,Signed Up,18.3
+3845,17874,Anthony Gomez,highfooweeezy@gmail.com,3234719535,Lynwood ,California ,USA,90262,2018-12-18 14:41:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-21 02:39:54,Signed Up,36.9
+3853,17866,Mervin Soares,mervinsoares1960@gmail.com,6265006063,Baldwin park,Ca,United states,91706,2018-12-18 13:23:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-18 13:23:19,Signed Up,48.2
+3857,17862,Elder Reyes,davebusters10@aol.com,5628220731,Downey,Florence,Usa,90240,2018-12-18 13:01:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-18 13:01:34,Signed Up,36.7
+3858,17861,Ryan Fraser,fraser.c.ryan@gmail.com,+18186740689,Oak Park,California,USA,91377,2018-12-18 12:54:45,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-18 12:54:45,Signed Up,52.0
+3916,17803,Haig Vartanian,haigv@hotmail.com,8184450355,Sunland,California,USA,91040,2018-12-17 18:04:13,2021-07-04,D5281324,nan,nan,nan,nan,nan,nan,nan,2018-12-17 18:04:13,Signed Up,53.5
+3979,17740,Marguerite Jordan,margueritejordan46@gmail.com,5622034635,Long Beach,California,Usa,90802,2018-12-17 12:38:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-17 12:38:23,Signed Up,50.1
+3982,17737,Louis MASTROPAOLO,lureleader@aol.com,7146548714,Fountainvalley,California,Oranges,92708,2018-12-17 12:31:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-17 12:31:27,Signed Up,71.2
+3989,17730,Sylvester Zowonu,gwayx105@gmail.com,3238452801,South Pasadena,CA,US,91030,2018-12-17 11:59:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-17 11:59:13,Signed Up,32.6
+3995,17724,Aja S,sasia2540@gmail.com,+13106214975,Los Angeles,433 W 103rd St,California,90003,2018-12-17 11:37:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-17 11:37:33,Signed Up,27.1
+4007,17712,Milon Harvey,mrmharvey24@gmail.com,5625058401,Compton,California,United States,90221,2018-12-17 10:25:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-17 10:25:44,Signed Up,42.2
+4012,17707,Julia Senzig,juliasenzig@earthlink.net,8058135971,Newbury Park,California,USA,91320,2018-12-17 10:05:53,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-17 10:05:53,Signed Up,66.4
+4080,17639,Sawrianos Fessahaye,sawrianos@gmail.com,3235036094,Los Angels,CA,United States,90043,2018-12-16 21:00:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-16 21:00:47,Signed Up,14.5
+4089,17630,Emonie  Hubbart ,ms.hubbart@gmail.com,4158452680,Lynwood ,CA,usa,90262,2018-12-16 18:55:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-16 18:55:37,Signed Up,36.9
+4094,17625,Khyber Law,khyberlw5@gmail.com,3233879747,Lynwood,California,USA,90262,2018-12-16 18:06:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-16 18:06:35,Signed Up,36.9
+4098,17621,Ahmed Badran,badranexec@gmail.com,7147062201,Westminster,California,UsA,92683,2018-12-16 17:36:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-16 17:36:22,Signed Up,66.2
+4121,17598,Hector Medina,fambamma@gmail.com,4242248133,Hawthorne,CA,🇺🇸,90250,2018-12-16 13:07:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-16 13:07:41,Signed Up,21.2
+4197,17522,Shemika Curry,scmika@yahoo.com,3233574014,Los Angeles,526 W 87th St,United States,90044,2018-12-15 16:46:03,nan,nan,nan,8eet058,White,Fusion,Ford,Car,Car services,2018-12-15 16:46:03,Signed Up,25.4
+4199,17520,Vahid Fayazi,vahidfayaz1982@gmail.com,8186580082,Woodlandhills,California,Los Angeles,91367,2018-12-15 16:29:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-15 16:29:49,Signed Up,31.8
+4220,17499,Dimitris Lekkos,dimlekkos@gmail.com,8188236446,Los Angeles,Ca,Usa,91602,2018-12-15 13:23:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-15 13:23:14,Signed Up,17.6
+4306,17413,Christina Olivarez,rockscorybaby@yahoo.com,9093001688,Upland,California,United States,91786,2018-12-14 17:08:52,2024-02-08,A8655745,nan,nan,nan,nan,nan,nan,nan,2018-12-14 17:08:52,Signed Up,79.1
+4313,17406,Jafar Abuajamieh,jafarajamieh@gmail.com,7204294113,Anaheim,California,USA,92804,2018-12-14 16:32:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-14 16:32:33,Signed Up,57.3
+4318,17401,Roberto Rivas,rivasr1979@gmail.com,8189874072,Reseda,California,USA,91335,2018-12-14 15:13:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-14 15:13:43,Signed Up,29.0
+4322,17397,DeAnna Thompson,tgifted@yahoo.com,3236131638,Los Angeles,California,USA,90044,2018-12-14 14:15:28,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-14 14:15:28,Signed Up,27.5
+4353,17366,Latoria Williams,llatoriawilliams@gmail.com,5624544158,Torrance,California,USA,90501,2018-12-14 09:20:31,1969-12-31,D6171815,nan,nan,nan,nan,nan,nan,nan,2018-12-14 09:20:31,Signed Up,32.5
+4366,17353,Juane Blake,juaneb123@yahoo.com,+19093002134,Upland,California,US,91786,2018-12-14 05:38:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-14 05:38:33,Signed Up,79.1
+4401,17318,Dennis Anderson,dennis65a50@gmail.com,8182321312,Granada Hills,Haskell Ave,United States,91344,2018-12-13 19:36:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-13 19:36:48,Signed Up,30.8
+4411,17308,Maria Rojas,rojasmaria053165@gmail.com,3236364116,Los Angeles,CA,Los Angeles,90063,2018-12-13 18:09:19,nan,C4206008,nan,nan,nan,nan,nan,nan,nan,2018-12-13 18:09:19,Signed Up,25.1
+4431,17288,Christian Palomar,chrispalomar1410@gmail.com,6263908328,Altadena,Altadena Dr,United States,91001,2018-12-13 15:02:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-13 15:02:07,Signed Up,44.8
+4438,17281,Charles Goldstein,kaister@yahoo.com,+18056607341,Santa Rosa Valley,California,USA,93012,2018-12-13 14:14:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-13 14:14:33,Signed Up,75.9
+4465,17254,Peruth Lunkuse,lunkuseruth6@gmail.com,7472489613,North Hollywood,Ca,USA,91605,2018-12-13 09:17:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-13 09:17:57,Signed Up,19.4
+4478,17241,Tierra Thomas,tierrachampagnecmo@gmail.com,5623330712,Las Vegas,California,United states,90280,2018-12-13 07:23:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-13 07:23:57,Signed Up,38.4
+4591,17128,Damion Lalor,dwalal16@yahoo.com,3235420207,Long Beach,CA,USA,90805,2018-12-12 09:08:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-12 09:08:03,Signed Up,47.2
+4594,17125,Erika Hernandez,milenium1988@yahoo.com,3239066633,Lynwood,CA,Unite States,90262,2018-12-12 09:03:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-12 09:03:21,Signed Up,37.3
+4680,17039,Hammad Babar,hammad.ali298@yahoo.com,4243547574,Torrance,California,America,90503,2018-12-11 16:40:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-11 16:40:14,Signed Up,33.7
+4690,17029,Gladel Valdez,arni3129@gmail.com,3235350312,Los Angeles,California,United States,90011,2018-12-11 15:44:15,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-11 15:44:15,Signed Up,21.9
+4694,17025,Arthur Davis,mr.arthur.davis2@gmail.com,13104619656,Compton,California,Usa,90061,2018-12-11 15:06:38,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-11 15:06:38,Signed Up,30.8
+4706,17013,Stacy Jones,sjones1209@gmail.com,4247893139,Hawthorne,CA,USA,90250-6166,2018-12-11 14:10:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-11 14:10:47,Signed Up,21.2
+4739,16980,Joe Camacho,camacho.joe57@gmail.com,3236134763,Huntington Park,Usa,Ca,90255,2018-12-11 10:48:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-11 10:48:01,Signed Up,27.5
+4761,16958,Kerry Johnson,ckerry2@gmail.com,5628263011,Long Beach,California,United states,90805,2018-12-11 08:19:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-11 08:19:07,Signed Up,48.2
+4812,16907,Sergio Campa,srgcampa@gmail.com,3104152476,Los Angeles,California,United States,90066,2018-12-10 20:22:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-10 20:22:48,Signed Up,10.4
+4815,16904,Gina Calleros,callmegine@gmail.com,8185723360,Los Angeles,Ca,USA,90042,2018-12-10 19:58:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-10 19:58:31,Signed Up,30.6
+4818,16901,Esther Gudino,dulcejj04@gmail.com,3238412545,Los Angeles,California,United States Of America,900qq,2018-12-10 19:02:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-10 19:02:13,Signed Up,21.9
+4882,16837,Che Broadnax,che.broadnax@gmail.com,7146310899,Anaheim,California,United States Of America,92804,2018-12-10 10:29:39,2020-03-20,B4236996,nan,nan,nan,nan,nan,nan,nan,2018-12-10 10:29:39,Signed Up,57.3
+4894,16825,Marianna Minasian,mariannaminasian@gmail.com,8183919090,Van Nuys,CA,USA,91405,2018-12-10 09:01:15,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-10 09:01:15,Signed Up,24.8
+4900,16819,Lee Scott,myworld304@gmail.com,3102133696,Gardena,Ca,United States,90247,2018-12-10 08:09:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-10 08:09:52,Signed Up,31.2
+4942,16777,Isaac Vega,isaacvega1111@gmail.com,7472438554,Encino,Ca,USA,91436,2018-12-09 16:42:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-09 16:42:07,Signed Up,22.1
+5021,16698,Brad Carpenter,brad.eagle.carpenter@gmail.com,+16033035097,Los Angeles,CA,USA,90035,2018-12-08 21:46:15,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-08 21:46:15,Signed Up,3.2
+5026,16693,Salvador Silva,sssilva8788@gmail.com,5624497552,Whittier,Ca,USA,90604,2018-12-08 20:10:40,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-08 20:10:40,Signed Up,45.8
+5037,16682,Stanley Chang,stanleyc87@gmail.com,6264136123,La Puente,California,United State,91744,2018-12-08 17:53:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-08 17:53:55,Signed Up,55.3
+5078,16641,Henry Vasquez,henvas00@outlook.com,8183593754,Pacoima,California,Usa,91331,2018-12-08 09:50:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-08 09:50:49,Signed Up,34.7
+5082,16637,Rafael Martinez,towman00176@gmail.com,3236902091,Los angeles,Ca,Usa,90018,2018-12-08 09:09:12,2022-04-23,B8019518,nan,nan,nan,nan,nan,nan,nan,2018-12-08 09:09:12,Signed Up,13.3
+5154,16565,Ana Banuelos,anaebanuelos@Gmail.con,3103493302,Lennox ,ca,USA ,90304,2018-12-07 13:14:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-07 13:14:17,Signed Up,17.3
+5158,16561,Lauro Miramontes Cortes,lauromiramontes@gmail.com,+16269355569,Duarte,CA,USA,91010,2018-12-07 12:54:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-07 12:54:08,Signed Up,60.5
+5200,16519,David Jimenez,elkora883@gmail.com,6262403735,La Puente ,ca,United States ,91744,2018-12-06 23:42:02,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 23:42:06,Signed Up,55.3
+5209,16510,Daniel Lin,christian.daniel.lin@gmail.com,6266503315,Walnut,Ca,U.S,91789,2018-12-06 21:21:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 21:21:11,Signed Up,60.1
+5211,16508,Yackelin Romero,santiagonrudy@gmail.com,5625412720,Paramount,Ca,LA,90723,2018-12-06 20:41:42,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 20:41:42,Signed Up,42.2
+5213,16506,Ronald Carter,carterronald22@yahoo.com,3238301226,Los Angeles,Ca,Usa,90056,2018-12-06 19:58:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 19:58:47,Signed Up,11.4
+5219,16500,Jose Garcia,zeta2210@aol.com,8186646802,Northridge,California,USA,91324,2018-12-06 19:18:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 19:18:49,Signed Up,34.7
+5221,16498,Joanne Lee,joanne7834@gmail.com,6263196655,La Puente,California,United States Of America,91744,2018-12-06 19:17:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 19:17:32,Signed Up,55.3
+5231,16488,Anthony Schmid,twaniebird4@gmail.com,7146587769,Stanton,California,Untited States,90680,2018-12-06 17:55:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 17:55:19,Signed Up,68.5
+5245,16474,Michael Villalta,michael.villalta@yahoo.com,6262136060,Bellflower,Ibbetson,United States,90706,2018-12-06 15:17:04,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 15:17:04,Signed Up,53.0
+5287,16432,Micheal Zakhary,michealzakhary@hotmail.com,+17147590568,Huntington Beach,Ca,United States,92649,2018-12-06 09:04:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-06 09:04:25,Signed Up,66.2
+5332,16387,Alisa Mitchell,alisam776@gmail.com,3234488437,San Pedro ,ca ,united state ,90731,2018-12-05 21:32:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-13 17:25:22,Signed Up,50.4
+5366,16353,Zahra Moradi,zahramoradi087@gmail.com,+16262722394,Duarte,California,USA,91010,2018-12-05 17:14:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 17:14:00,Signed Up,60.5
+5371,16348,Patricia Huerta,pattyh13@yahoo.com,9097758380,Pomona,Ca,Los Angeles,91766,2018-12-05 16:24:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 16:24:24,Signed Up,71.4
+5372,16347,April Soto,aprilinparis88@gmail.com,8182767507,Sun Valley,Cantlay St,United STATES,91352,2018-12-05 16:19:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 16:19:32,Signed Up,20.8
+5379,16340,Tina Stevens,tmstevens2012@gmail.com,5622947669,Los Angeles,Ca,USA,91741,2018-12-05 14:30:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 14:30:59,Signed Up,75.8
+5381,16338,Lashawn Young,roseofsharon215@gmail.com,9033717025,Los Angeles,California,USA,90018,2018-12-05 14:18:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 14:18:08,Signed Up,13.3
+5418,16301,Mabel Antelo,scioscia14@gmail.com,3236959212,Montebello,Ca,Usa,90640,2018-12-05 11:30:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 11:30:30,Signed Up,37.2
+5436,16283,Enijua Williams,willienijua44@gmail.com,3239238626,Los Angeles,California,United States,90044,2018-12-05 10:11:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 10:11:55,Signed Up,27.5
+5458,16261,Yozka Rodriguez,yozkarodriguez@gmail.com,5623865384,Long Beach,Ca,United States,90805,2018-12-05 07:52:17,2022-02-01,3824132,nan,5zmw795,Blue,Matrix,Toyota,Car,Car services,2018-12-05 07:52:17,Signed Up,47.6
+5463,16256,Denise Aguilar,denaguilar31@gmail.com,+13236729194,South Gate,Ca,United States,90280,2018-12-05 08:12:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 08:12:34,Signed Up,38.4
+5469,16250,Michael Taylor,mtaylor63724@yahoo.com,3233317055,Los Angeles,California,United States,90044,2018-12-05 05:45:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-05 05:45:49,Signed Up,27.5
+5485,16234,Vardan Melikyan,narvarnardav@gmail.com,3234072318,Van Nuys,CA,USA,91405,2018-12-04 23:02:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-04 23:02:33,Signed Up,24.7
+5552,16167,Plinio Camara,pliniocamara1946@gmail.com,3104339916,Los Angeles,California,USA,90025,2018-12-04 14:47:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-04 14:47:20,Signed Up,5.9
+5558,16161,Fernando Contreras,contfer23@gmail.com,3239840815,Los Angeles,California,US,90026,2018-12-04 14:15:39,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-04 14:15:39,Signed Up,15.6
+5612,16107,Pamela Smith,psmith1268@gmail.com,3103468106,Carson,California,Usa,90746,2018-12-04 07:17:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-04 07:17:12,Signed Up,35.7
+5637,16082,LaTanya Effron,yougotyou8@yahoo.com,3238122347,Los Angeles,California,USA,90007,2018-12-03 23:18:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 23:18:37,Signed Up,16.4
+5638,16081,Omar Rivas,darkness.drknss23@outlook.es,3234700769,La Puente,California,United States of America,91744,2018-12-03 23:02:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 23:02:07,Signed Up,55.3
+5669,16050,Kanesha Lockett,kanlock89@gmail.com,5624411836,Los Angeles,California,usa,90059,2018-12-03 17:37:09,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 17:37:09,Signed Up,32.4
+5672,16047,Tyshawn Harris,tshawn89@gmail.com,3109568914,Carson,California,USA,90220,2018-12-03 17:27:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 17:27:52,Signed Up,41.7
+5673,16046,Thania Orozco,thaniaale93@gmail.com,71457468222,Hawthorne,CA,United States,90250,2018-12-03 17:14:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 17:14:20,Signed Up,24.6
+5677,16042,Marc Vasquez,marcvasquez00@gmail.com,8187446676,Burbank,CA,USA,91502,2018-12-03 16:57:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 16:57:35,Signed Up,27.0
+5692,16027,Axel Castillo lopez,axelcastillokat@gmail.com,6572629500,Garden Grove,California,United States,92843,2018-12-03 15:43:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 15:43:48,Signed Up,69.9
+5705,16014,Michael Bobby,bobbymichael134@gmail.com,3235295546,Los Angeles,Calif,USA,90018,2018-12-03 14:23:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 14:23:34,Signed Up,13.3
+5716,16003,Jinwu du,2768114815@qq.com,6269228288,montclair,adera st,usa,91763,2018-12-03 13:14:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 13:14:59,Signed Up,77.2
+5719,16000,Giselle Bernal,gisellebernal28@gmail.com,3234892657,Montebello,UNITED STATES,California,90640,2018-12-03 12:46:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 12:46:59,Signed Up,37.2
+5729,15990,Tiffany Washington,ldkroc@gmail.com,3233458929,Los Angeles,California,USA,90003,2018-12-03 11:01:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 11:01:46,Signed Up,25.2
+5748,15971,Timmy Caronna,caronnatimmy@yahoo.com,3107022895,Carson,CA,USA,90746,2018-12-03 08:43:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 08:43:14,Signed Up,35.7
+5772,15947,Yamili Thouchalanh,kristobineeno23@gmail.com,5623036291,Long Beach,California,United States,90805,2018-12-03 04:42:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-03 04:42:33,Signed Up,47.6
+5781,15938,Stacy Nacar,stacynacar22@gmail.com,7149335448,Fullerton,Ca,Oc,92832,2018-12-02 22:07:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-02 22:07:23,Signed Up,59.4
+5807,15912,Jes�s  Mendoza,churistein@gmail.com,6264949630,Covina,California,United States,91722,2018-12-02 17:29:40,2020-01-25,A8020027,nan,nan,nan,nan,nan,nan,nan,2018-12-02 17:29:40,Signed Up,56.2
+5823,15896,Michael Romano,godofthunder8955@gmail.com,8188140616,Granada Hills,California,United States,91344,2018-12-02 14:54:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-02 14:54:48,Signed Up,33.5
+5832,15887,Venessa Natividad,v.b.natividad@gmail.com,3104082849,Carson,California,United States,90745,2018-12-02 14:18:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-02 14:18:11,Signed Up,36.2
+5841,15878,S. Lillie Hobdy,refreshyrself@gmail.com,3235708098,Los 2,Ca,Usa,90037,2018-12-02 12:48:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-02 12:48:05,Signed Up,20.4
+5849,15870,Fernando Marquez,fmt.8819@gmail.com,5624504834,West Covina,California,USA,91792,2018-12-02 10:51:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-02 10:51:08,Signed Up,58.3
+5897,15822,Luis Flores,tito_lbc_1@yahoo.com,5626075730,Long Beach,Ca,Us,90813,2018-12-01 19:01:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-01 19:01:30,Signed Up,45.3
+5907,15812,Anna Chavez,a.chavez2@yahoo.com,+13238232718,Downey,California,US,90241,2018-12-01 17:43:56,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-01 17:43:56,Signed Up,38.4
+5930,15789,Shante Jacob,mzmocha708@gmail.com,6264211154,Azusa,Rockvale,USA,91702,2018-12-01 14:47:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-01 14:47:01,Signed Up,63.5
+5935,15784,Elina Minassian,itselina77@gmail.com,7472148363,Sunland ,ca ,United States ,91040,2018-12-01 14:17:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-01 14:17:35,Signed Up,53.5
+5988,15731,Alejandra Martinez,alejandra.martinez_23@yahoo.com,7145926439,Santa Ana,Ca,Usa,92704,2018-12-01 07:32:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-12-01 07:32:36,Signed Up,78.7
+6052,15667,Joseph King,Joebleeze323@yahoo.com,3103432226,Hawthorne,California,United States,90250,2018-11-30 16:39:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-30 16:39:08,Signed Up,21.2
+6082,15637,Phil Cohen,joephilcohen@Gmail.com,3106237501,reseda,CA,US,91335,2018-11-30 13:05:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-30 13:06:03,Signed Up,28.5
+6091,15628,Dara Creighton,daracreighton@gmail.com,4027391246,Los Angeles,California,United States,90003,2018-11-30 11:56:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-30 11:56:21,Signed Up,25.2
+6111,15608,Keacha Stewart,keachalstewart@gmail.com,3233269928,Los Angeles,California,United States,90037,2018-11-30 10:26:02,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-30 10:26:02,Signed Up,20.4
+6128,15591,Roy Kim,roy86kim@gmail.com,3232757925,Alhambra,California,United States,91803,2018-11-30 08:16:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-30 08:16:26,Signed Up,33.4
+6147,15572,Erika Hernandez,aceveserika642@gmail.com,3239066633,Lynwood,California,United States,90262,2018-11-30 05:58:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-30 05:58:31,Signed Up,36.9
+6163,15556,Charmis Harris,deshaunh502@gmail.com,8183849613,Los Angeles,California,United States,90037,2018-11-29 22:02:06,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-29 22:02:06,Signed Up,20.4
+6164,15555,Aldo Martinez,aldo2172@yahoo.com,3232821965,Pico Rivera,CA,Los Angeles,90660,2018-11-29 21:52:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-29 21:52:24,Signed Up,37.3
+6169,15550,Archie KING,king8957@yahoo.com,3109994895,Compton,California,Los Angels,90222,2018-11-29 21:00:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-29 21:00:23,Signed Up,37.1
+6186,15533,Alice Polo,alicepolo10@gmail.com,3239218457,EUA,Califórnia,Hawthorne,90250,2018-11-29 18:42:54,nan,Y4762281,nan,nan,nan,nan,nan,nan,nan,2018-11-29 18:42:54,Signed Up,24.6
+6192,15527,Andrew Ledezma,ledezma.andrew@yahoo.com,3239014000,Los angeles,CA,United States,90063,2018-11-29 18:07:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-29 18:07:52,Signed Up,26.3
+6214,15505,Orlando Baez,bigbigfish280@gmail.com,6573519757,Santa Ana,California,Orangehi,92701,2018-11-29 16:36:47,2021-01-23,D5289799,nan,nan,nan,nan,nan,nan,nan,2018-11-29 16:36:47,Signed Up,70.4
+6242,15477,Alfredo Barbosa,antoniobarbosat55@gmail.com,+13236983221,Los Angeles,California,U.S.A.,90018,2018-11-29 13:25:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-29 13:25:05,Signed Up,13.3
+6246,15473,Magali Gonzalez,magaligonzalez82@gmail.com,3232718093,Los Angeles,California,US,90059,2018-11-29 12:52:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-29 12:52:18,Signed Up,34.2
+6335,15384,Oscar Garcia,osecundino88@gmail.com,3106544661,Inglewood,Crenshaw Blvd,Unites States,90303,2018-11-28 23:02:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-28 23:02:07,Signed Up,25.0
+6351,15368,Edward Fierro,edfierro8@gmail.com,3108663377,Harbor City,California,United States of America,90710,2018-11-28 19:39:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-28 19:39:00,Signed Up,38.2
+6354,15365,Sergio Campa,srgcampa@yahoo.com,3104152476,Culver City,California,United States,90066,2018-11-28 19:21:45,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-28 19:21:45,Signed Up,10.4
+6367,15352,Dolores Del cid,carmendelcid490@gmail.com,8186262670,Van Nuys,Ca,EE.UU,91405,2018-11-28 18:04:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-28 18:04:27,Signed Up,24.7
+6368,15351,Dolores Del cid,carmenbernal8383@gmail.com,8186262670,Van Nuys,Ca,EEUU,91405,2018-11-28 18:01:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-28 18:01:34,Signed Up,24.7
+6406,15313,Guadalajara Moreno,ale.moreno22@yahoo.com,2132979528,Burbank,California,United States,91502,2018-11-28 14:19:50,1977-09-03,B6487379,nan,nan,nan,nan,nan,nan,nan,2018-11-28 14:19:50,Signed Up,27.0
+6452,15267,MANUEL Montelongo,manuelmontelongo18@yahoo.com,4245376298,Wilmington,California,Los Angeles,90804,2018-11-28 09:33:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-28 09:33:33,Signed Up,51.1
+6510,15209,Jaime De La Torre,jdltjr@yahoo.com,5622397091,Lakewwod,California,LA,90713,2018-11-27 22:23:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 22:23:46,Signed Up,51.0
+6512,15207,Heriberto Sangronis,heribertosangronis39@gmail.com,6266784783,West covina,California,Usa,91792,2018-11-27 22:11:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 22:11:44,Signed Up,58.3
+6516,15203,Paula Jae,prettypaula28@gmail.com,3102994246,Los Angeles,California,United States,90019,2018-11-27 21:23:16,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 21:23:16,Signed Up,6.6
+6529,15190,Axel Castillo,axelcastillokat@yahoo.com,6572629500,Garden Grove,California,United States,92843,2018-11-27 20:00:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 20:00:22,Signed Up,72.0
+6556,15163,Beatriz Bravo,bebe.bravo23@gmail.com,6265237619,Covina,California,United States,91722,2018-11-27 16:49:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 16:49:00,Signed Up,56.2
+6580,15139,Hok thong,hokkimthongandnovianita@gmail.com,6263413316,monterey park,ca,usa,91754,2018-11-27 15:13:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 15:13:03,Signed Up,31.0
+6591,15128,Jazmine Phillips,jpjazmine@gmail.com,9513006874,Chino Hills,California,USA,91709,2018-11-27 14:33:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 14:33:19,Signed Up,78.1
+6606,15113,Dalmarie Gonzalez,dalmariegonzalez@yahoo.com,5624479489,San Dimas,California,USA,91773,2018-11-27 13:04:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 13:04:12,Signed Up,71.0
+6626,15093,Felipe Valentin,felipevalentin630@gmail.com,6265233770,La Puente,Ca,Los Angeles,91744,2018-11-27 10:49:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 10:49:11,Signed Up,55.3
+6686,15033,Masoud Sehatkafiri,masuodsehat1361@gmail.com,7472546577,Tarzana,CA,US,91335,2018-11-27 00:54:02,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 00:54:02,Signed Up,28.5
+6689,15030,Sumoyyah Irving,mrsxxlavish@gmail.com,6612279646,1212 S Aprilia,Compton,United States,90220,2018-11-27 00:30:06,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-27 00:30:06,Signed Up,41.7
+6705,15014,Jeremy Mo,mo.jeremy@gmail.com,6268028267,Monrovia,California,United States,91016,2018-11-26 20:49:10,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-26 20:49:10,Signed Up,52.1
+6713,15006,Jasmine Body,jasmin3body@gmail.com,3104039778,Los Angeles,California,Usa,90044,2018-11-26 20:01:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-26 20:01:59,Signed Up,27.5
+6798,14921,Jose Rodriguez,joserod139@gmail.com,3102927362,Gardena,California,Untied States,90247,2018-11-26 13:14:39,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-26 13:14:39,Signed Up,31.2
+6846,14872,Joel Uribe,slickman132000@yahoo.com,8185642061,Mission Hills,California,Usa,91345,2018-11-26 09:21:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-26 09:21:19,Signed Up,31.9
+6885,14833,Adeola Ojegbile,deola.ojegbile@yahoo.com,7143298286,Anaheim,Ca,American,92801,2018-11-26 04:01:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-26 04:01:13,Signed Up,55.5
+6900,14818,Yukary Hernandez,yukaryhernandez.1993@gmail.com,3238099188,Los Angeles,California,United State,90011,2018-11-25 23:08:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 23:08:51,Signed Up,21.9
+6902,14816,Piruza Karapetyan,mkhpiromko@yahoo.com,8184379579,Arleta,13531 Correnti St,Los Angeles,91331,2018-11-25 22:50:06,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 22:50:06,Signed Up,31.3
+6930,14788,Antonio Estrada,testrada42.te@gmail.com,8189129223,Pacoima,California,Los Angeles,91331,2018-11-25 18:42:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 18:42:43,Signed Up,34.7
+6945,14773,Alfred Thomas,alfrednolanthomasii@gmail.com,32323092286,North Hollywood,Ca,USA,91605,2018-11-25 16:57:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 16:57:37,Signed Up,19.4
+6963,14755,Jessica landry,jlynn315@yahoo.com,5042661692,terrytown,la,united states,70956,2018-11-25 16:43:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 16:43:18,Signed Up,20.9
+6972,14746,Hok thong,hokthong75@gmail.com,16263413316,monterey park,california,usa,91754,2018-11-25 14:08:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 14:08:52,Signed Up,31.0
+6997,14721,Krystle Mitchell,mitchell.krystle2@gmail.com,+13109255963,Los Angeles,CA,USA,90005,2018-11-25 10:07:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 10:07:12,Signed Up,9.1
+7002,14716,Mohammad Khosravi,MOKHOSRAVI80@GMAIL.COM,9497592920,Anaheim,Ca,Usa,92807,2018-11-25 09:27:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 09:27:41,Signed Up,71.8
+7005,14713,Deborah Datcher,lakesidemedgrp@yahoo.com,2058214355,Los Angeles,California,USA,90016,2018-11-25 09:01:06,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-25 09:01:06,Signed Up,9.2
+7039,14679,Reshay Williams,shyanne1martin9@gmail.com,3236159818,Los Angeles,California,Usa,90061,2018-11-24 20:38:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 20:38:25,Signed Up,30.8
+7041,14677,Wojciech Kaminski,kamyk66@gmail.com,9095769902,Bellflower,CA,LA,90706,2018-11-24 20:29:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 20:29:03,Signed Up,51.5
+7066,14652,Barbara Bango,brbrbng@gmail.com,8187239525,Woodland hills,Ca,Los Angeles,91367,2018-11-24 16:58:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 16:58:11,Signed Up,31.8
+7078,14640,James Neal,Semajneal@gmail.com,5625284520,Long Beach,Ca,Usa,90806,2018-11-24 14:47:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 14:47:24,Signed Up,42.4
+7089,14629,Maritza Lopez,morenita311981@gmail.com,8182848718,Thousand Oaks,California,United States,93063,2018-11-24 13:36:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 13:36:20,Signed Up,54.5
+7090,14628,Enrique Sanchez,enrique2883@hotmail.com,8054798238,Thousand Oaks,California,United States,93063,2018-11-24 13:33:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 13:33:03,Signed Up,54.5
+7120,14598,Emily Vargas,meli.3v.luv@gmail.com,+13232391128,Los Angeles,California,Usa,90016,2018-11-24 09:03:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 09:03:52,Signed Up,9.2
+7154,14564,Maryam Mazloomi,maryam74mb@yahoo.com,8189418737,Winnetka,California,United states,91306,2018-11-23 22:11:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-23 22:11:14,Signed Up,32.4
+7156,14562,Elias Lopez,babyboy7252@gmail.com,6264092984,El monte,,California,United States,91732,2018-11-23 21:36:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-23 21:36:50,Signed Up,48.3
+7157,14561,Adel Elkomos,adel204marco@gmail.com,4247573395,Torrance,California,United States,90503,2018-11-23 21:33:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-23 21:33:57,Signed Up,28.3
+7176,14542,Ssndra Zamora,zsandy0715@gmail.com,6572629534,Anaheim,Ca,Orange,92804,2018-11-23 18:10:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-23 18:10:05,Signed Up,57.3
+7185,14533,Judin Valenzuela,juvamichva@gmail.com,5626568332,Pico Rivera,Ca,United States Of America,90660,2018-11-23 17:13:04,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-23 17:13:04,Signed Up,37.3
+7210,14508,Tayva Baker,tayva33@gmail.com,2133189477,Los Angeles,California,USA,90061,2018-11-23 13:37:38,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-23 13:37:38,Signed Up,30.8
+7230,14488,Huang Yu,tue86513@gmail.com,9495458948,San  Dimas,CA,UNITED STATES,91773,2018-11-23 10:54:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-23 10:54:00,Signed Up,71.0
+7339,14379,Mary Lugo,marylugo2@yahoo.com,9092366116,Chino,Ca,United States,91710,2018-11-22 11:42:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-22 11:42:31,Signed Up,77.2
+7355,14363,Adria Watson,wadria@yahoo.com,3232105770,Los Angeles,California,USA,90019,2018-11-22 08:27:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-22 08:27:17,Signed Up,6.6
+7363,14355,Yemileen Trujillo,yemilet9215@student.vvc.edu,9512508373,El Monte,California,Usa,91731,2018-11-22 07:06:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-22 07:06:57,Signed Up,43.2
+7401,14317,Tyia Brown,beautifultyia@gmail.com,3108008527,Compton,Ca,United states,90220,2018-11-21 18:45:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-21 18:45:22,Signed Up,41.7
+7407,14311,Roshnimarie Surujn,Roshnimarie562@gmail.com,5626763307,Long Beach,California,United States,90805,2018-11-21 17:25:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-21 17:25:22,Signed Up,47.2
+7412,14306,Jose Chavez,chepochavez1626@gmail.com,7252662092,Rowland Hts,Ca,USA,91748,2018-11-21 17:05:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-21 17:05:32,Signed Up,55.9
+7417,14301,Adrian  Wilson,awilson4453@gmail.com,3105629183,Bellflower ,Ca,USA,90706,2018-11-21 16:22:29,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-22 11:24:52,Signed Up,51.9
+7445,14273,Joanna Rodriguez,rodriguez.joanna96@yahoo.com,5622284638,Long Beach,CA,Los Angeles,90810,2018-11-21 12:01:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-21 12:01:17,Signed Up,40.9
+7456,14262,Osayuki John,ukibest@yahoo.com,9513849314,Gardena,Catalina,United States,90247,2018-11-21 10:35:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-21 10:35:57,Signed Up,30.6
+7531,14187,Abdul Basir Amiri,baherabdul81@hotmail.com,2134560915,Los Angeles,CA,United states of America,90031,2018-11-20 21:11:29,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 21:11:29,Signed Up,28.0
+7548,14170,Lucy Villegas,lucy.am2307@gmail.com,+15625836328,Long Beach,CA,US,90806,2018-11-20 19:43:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 19:43:57,Signed Up,42.4
+7553,14165,Juan Perez,jjperez489@gmail.com,3233607994,Los Angeles,Ca,Los Angeles,90033,2018-11-20 19:16:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 19:16:44,Signed Up,24.4
+7554,14164,Wendy Morentin,wendymorentin@gmail.com,6262465591,La Puente,Ca,Los Angeles,91744,2018-11-20 19:16:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 19:16:18,Signed Up,55.3
+7569,14149,Jacob Tassara,Jacob.fro24@icloud.com,5046698928,New Orleans ,la,New Orleans ,70027,2018-11-20 19:17:10,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-24 08:51:06,Signed Up,20.9
+7574,14144,Hamid Mirzaee,mirhm@yahoo.com,8186336867,Canoga Park,California,USA,91304,2018-11-20 16:41:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 16:41:59,Signed Up,43.8
+7615,14103,Victor Marin,vmsm79@gmail.com,3234963913,Los Angeles,862 Brittania St,United States,90033,2018-11-20 12:02:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 12:02:41,Signed Up,25.0
+7619,14099,Juan Draper,juan.draper@yahoo.com,3237982530,Fullerton,Santa Fe,Usa,92832,2018-11-20 11:52:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 11:52:17,Signed Up,59.8
+7632,14086,Alioune Dioum,badudioum@gmail.com,9126752320,Inglewood,CA,Los Angels,90301,2018-11-20 10:29:29,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 10:29:29,Signed Up,17.8
+7691,14027,George Adams,leebobby91505@gmail.com,8187496631,Burbank,California,United States,91505,2018-11-20 02:02:58,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-20 02:02:58,Signed Up,20.3
+7696,14022,Ruth Esparza,espr32@aol.com,3239982999,Los Angeles,Del Norte St,USA,90065,2018-11-19 23:01:40,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-19 23:01:40,Signed Up,25.3
+7697,14021,Serog Haghverdi,sero1957@mail.com,3238648200,Burbank,Ca.,Usa,91502,2018-11-19 22:48:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-19 22:48:49,Signed Up,27.0
+7783,13935,Eric Espinosa,ericespinosa3@gmail.com,5623261993,La Mirada,California,Us,90638,2018-11-19 09:37:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-19 09:37:43,Signed Up,48.7
+7786,13932,Jose Caballero,BOCHO98@HOTMAIL.COM,9097285701,Pomona,California,Los Angeles,91768,2018-11-19 09:29:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-19 09:29:46,Signed Up,66.8
+7807,13911,Dolores Petrillo,1dolorespetrillo@gmail.com,6267031185,diamond bar,ca,USA,91765,2018-11-19 08:13:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-19 08:13:50,Signed Up,63.0
+7836,13882,Michael Brydges,m.brydges44@gmail.com,7143983614,Orange,California,USA,92865,2018-11-19 00:30:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-19 00:30:46,Signed Up,66.8
+7837,13881,Khaza faisal,khazafaisal7@gmail.com,+13236108843,Artesia,Ca,Usa,90701,2018-11-19 00:24:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-19 00:24:14,Signed Up,48.9
+7842,13876,Noel Bobadilla,noel_hernanbobadilla@yahoo.com,3239447108,Los Angeles,California,United States,90001,2018-11-18 21:50:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-18 21:50:33,Signed Up,27.2
+7853,13865,Jessica Ramirez,jessica.m.ramirez.ca@gmail.com,7144950900,Orange,Ca,United States,92866,2018-11-18 20:25:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-18 20:25:46,Signed Up,79.9
+7858,13860,Diana Vargas,dvargas38@yahoo.com,3104388060,Bellevue,Ca,California,90707,2018-11-18 18:56:29,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-18 18:56:29,Signed Up,51.4
+7859,13859,Jose Olazabal,isabella.melanie7812@gmail.com,3232746349,Los Angeles,California,USA,90033,2018-11-18 18:54:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-18 18:54:44,Signed Up,24.4
+7862,13856,Talia Karaky,taekaraky@gmail.com,9514068757,Ontario,CA,USA,91762,2018-11-18 18:45:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-18 18:45:50,Signed Up,78.4
+7875,13843,Tammara Martinez,mmtammara@gmail.com,5623218665,Whittier,Ca,Los Angeles,90604,2018-11-18 16:41:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-18 16:41:50,Signed Up,45.8
+7959,13759,Antares Vice-Clemente,antares2434@mail.com,3105917221,Canyon Country,California,United States,91351,2018-11-18 05:29:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-18 05:29:49,Signed Up,59.0
+8026,13692,Jorge Aguayo,jaguayo67022@gmail.com,3237172888,Inglewood,California,United states Of America,90301,2018-11-17 14:03:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-17 14:03:24,Signed Up,21.1
+8043,13675,Rene Cruz,renebc12@yahoo.com,8186055927,Van Nuys,Ca,Usa,91405,2018-11-17 11:56:09,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-17 11:56:09,Signed Up,24.7
+8046,13672,Marc Whittemore,marc@aworkofmarc.com,3108505402,Los Angeles,CA,Los Angeles,90048,2018-11-17 11:46:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-17 11:46:31,Signed Up,3.2
+8051,13667,Alyssa Day,alyssaday91@gmail.com,3109556514,Torrance,Ca,United States,90504,2018-11-17 11:20:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-17 11:20:33,Signed Up,30.6
+8062,13656,Allen French,allenfrench1@gmail.com,+13106994794,Los Angeles,CA,USA,90066,2018-11-17 10:07:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-17 10:07:51,Signed Up,10.4
+8072,13646,Jerry Farraj,jerryfarraj@gmail.com,9099696763,Upland,Ca,San Bernardino,91786,2018-11-17 08:48:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-17 08:48:44,Signed Up,79.1
+8083,13635,Jarvon Greer,jarvonreveals@yahoo.com,3236746218,Los Angeles,California,USA,90062,2018-11-17 07:38:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-17 07:38:30,Signed Up,17.0
+8125,13593,Zahra Shavandi,n.shaida2016@yahoo.com,3109030870,Tarzana,California,Los Angels,91335,2018-11-16 20:30:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-16 20:30:46,Signed Up,28.5
+8146,13572,Patricia Scott,patriciascott7777@yahoo.com,3109802133,Carson,California,United States,90746,2018-11-16 17:35:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-16 17:35:17,Signed Up,35.7
+8195,13523,Danyel Woods,danyel_woods@yahoo.com,3233380802,Hawthorne,CA,USA,90250,2018-11-16 11:11:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-16 11:11:44,Signed Up,24.6
+8213,13505,Orlando Baez,orlando.baez28@gmail.com,6573519757,Santa Ana,California,United states,92701,2018-11-16 09:10:07,2021-01-23,D5289799,nan,nan,nan,nan,nan,nan,nan,2018-11-16 09:10:07,Signed Up,70.4
+8267,13451,Jensen Vargas,jenamanda93@gmail.com,8187401253,La Puente,California,Los Angeles,91744,2018-11-15 22:47:58,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-15 22:47:58,Signed Up,55.3
+8270,13448,Tim Caronna,timcaronna@aol.com,3107022895,Carson,CA,USA,90745,2018-11-15 22:18:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-15 22:18:26,Signed Up,36.2
+8272,13446,Paige Wheeler-Swift,p1swift@yahoo.com,9165190979,Pomona,Ca,USA,91767,2018-11-15 21:59:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-15 21:59:26,Signed Up,70.7
+8306,13412,Sharon Mervin,sdt5250@lausd.net,13232376376,Los Angeles,Ca,United States,90062,2018-11-15 16:54:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-15 16:54:47,Signed Up,17.0
+8311,13407,Stephany Tamayo,shantalsteph28@gmail.com,4242394095,Compton,Ca,Los Angeles,90222,2018-11-15 16:00:09,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-15 16:00:09,Signed Up,37.1
+8334,13384,Montse Fuentes,perfectdesignmf@gmail.com,7145618507,ANAHEIM,320 N Park vista St,United states,92806,2018-11-15 13:06:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-15 13:06:44,Signed Up,65.9
+8400,13318,Robert Gallegos,gallegosjb@yahoo.com,6263431576,Hacienda Heights,California,United States,91745,2018-11-14 22:53:56,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-14 22:53:56,Signed Up,47.6
+8401,13317,Cecilia Cabrinha,ccabrinham@gmail.com,6267566955,Pomona,California,USA,91767,2018-11-14 22:47:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-14 22:47:51,Signed Up,70.7
+8406,13312,Jose Olazabal,rigo7812@gmail.com,3232746349,Los Angels,California,USA,90033,2018-11-14 22:00:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-14 22:00:44,Signed Up,24.4
+8488,13230,Nichole Thevenin,nicholethevenin@gmail.com,9493656872,Long beach,Ca,United states,90803,2018-11-14 13:19:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-14 13:19:05,Signed Up,62.8
+8497,13221,Girma Kassa,kassa30@yahoo.com,2134464571,Carson,337 W Clarion Dr,Los Angels,90745,2018-11-14 12:26:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-14 12:26:24,Signed Up,34.6
+8533,13185,Chadric Johnson,Chadric.johnson@gmail.com,8037676697,Los Angeles,California,United States,90008,2018-11-14 07:38:19,2021-05-23,F2857816,nan,7x0D399,Black ,GLK-Class,Mercedes,Truck,Truck services,2018-11-14 07:38:19,Signed Up,11.1
+8534,13184,Amin Rajabi,amir.rajabi1414@gmail.com,9045054755,Encino,Ca,Usa,91316,2018-11-14 07:32:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-14 07:32:22,Signed Up,25.0
+8581,13137,Telesha Cachimay,tcachimay86@gmail.com,+19094025120,Los Angeles,California,United States Of America,90017,2018-11-13 22:11:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-13 22:11:50,Signed Up,12.8
+8625,13093,Isay Torres,isaytorress@gmail.com,2138044445,Los Angeles,California,Usa,90007,2018-11-13 14:00:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-13 14:00:05,Signed Up,16.4
+8649,13069,Nicol Velasco,nicol.cissandra.velasco@gmail.com,3239443547,South Gate,Dorothy Ave,Usa,90280,2018-11-13 11:21:39,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-13 11:21:39,Signed Up,38.6
+8758,12960,Javier Martinez,jams91151@gmail.com,5624470840,Whittier,California,Usa,90604,2018-11-12 17:13:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-12 17:13:11,Signed Up,45.8
+8780,12938,Nikeisha Decosta,nikeisha_decosta@yahoo.com,3239447758,Los Angeles,California,United state,90043,2018-11-12 15:25:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-12 15:25:49,Signed Up,14.5
+8891,12827,Alexander Lee,alexanderlee884@gmail.com,3232821703,Inglewood,California,United States,90303,2018-11-12 02:07:54,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-12 02:07:54,Signed Up,24.6
+8897,12821,Ruth Vega,ruthyamileth1980@gmail.com,2139494484,Los Angeles,California,U.s.a,90019,2018-11-11 23:29:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-11 23:29:12,Signed Up,6.6
+8914,12804,Mary Murillo,lindamurillo5@aol.com,3103306621,Hawthorne,California,United States,90250,2018-11-11 19:32:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-11 19:32:07,Signed Up,24.6
+8942,12776,Ricardo Torrero,r87torrero@gmail.com,9092389572,Chino,CA,USA,91710,2018-11-11 16:38:39,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-11 16:38:39,Signed Up,77.2
+9022,12696,Sharon Drake,sharon531965@gmx.com,4242546673,Los Angeles,California,Los Angeles,90059,2018-11-11 05:28:42,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-11 05:28:42,Signed Up,32.4
+9073,12645,Martin Torosyan,martintoros@yahoo.com,8182619821,North Hollywood,Usa,LA,91606,2018-11-10 16:32:09,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-10 16:32:09,Signed Up,17.8
+9116,12602,Michael Bardol,mbardol@gmail.com,3107486071,Los Angeles,California,United States,90034,2018-11-10 11:06:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-10 11:06:31,Signed Up,4.5
+9139,12579,Aide Pedro,aidepedro13@gmail.com,5622826051,Compton,California,United States,90221,2018-11-10 08:33:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-10 08:33:20,Signed Up,44.7
+9173,12545,Vahigh Markarian,vahighm@gmail.com,+18189193460,Los Angeles,Ca,Usa,91203,2018-11-10 02:09:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-10 02:09:20,Signed Up,26.8
+9250,12468,Julio Lopez,radiocristiano27@gmail.com,2134365198,Los Angeles,California,Los Angeles,90011,2018-11-09 13:53:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-09 13:53:07,Signed Up,21.9
+9293,12425,Darren Krauza,darrenkrauza13@yahoo.com,4243419985,Los Angeles,California,United States,90034,2018-11-09 09:48:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-09 09:48:32,Signed Up,4.5
+9355,12363,Brandon Davis,bdavis_rpc22@hotmail.com,3109164366,Inglewood,California,USA,90303,2018-11-08 21:26:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-08 21:26:37,Signed Up,24.6
+9373,12345,Jangprit Singh,preetlover1997@gmail.com,6572621995,Huntington Beach,California,Orange County,92648,2018-11-08 19:21:54,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-08 19:21:54,Signed Up,73.2
+9409,12309,Destiny Bonilla,deeebee8@gmail.com,16617941753,Valencia,United States,California,91355,2018-11-08 16:18:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-08 16:18:19,Signed Up,54.8
+9453,12265,Cecilia Almeida,ceciliadalmeida@yahoo.com,8184719417,Valencia,California,Los Angeles,91381,2018-11-08 11:46:58,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-08 11:46:58,Signed Up,52.2
+9559,12159,Corie Randolph,corie.randolph@gmail.com,2312505373,Los Angeles,CA,United States,91602,2018-11-07 21:03:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-07 21:03:43,Signed Up,17.6
+9577,12141,Jose Arturo Torres Nogueda,arturo26torres@gmail.com,8185723598,Glendale,California,Los Angeles Ca,91205,2018-11-07 18:49:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-07 18:49:00,Signed Up,29.8
+9603,12115,Jose Cruz,adventure562@yahoo.com,5623762010,Montebello,Carob Way,United States,90640,2018-11-07 17:04:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-07 17:04:51,Signed Up,34.0
+9608,12110,Juan bernardo Galvan murillo,galvan9191@gmail.com,8185710109,Glendale,Ca,Los Angeles,91204,2018-11-07 16:25:44,2019-12-17,F7537734,nan,nan,nan,nan,nan,nan,nan,2018-11-07 16:25:44,Signed Up,27.9
+9662,12056,Serog haghverdi,serog1957@gmail.com,3238648200,Burbank,California,United State Of America,91502,2018-11-07 11:48:45,1969-12-31,A8733679,nan,nan,nan,nan,nan,nan,nan,2018-11-07 11:48:45,Signed Up,27.0
+9679,12039,Lawrence Wallace,lwallz27@gmail.com,6263943623,Pasadena,California,United States,91104,2018-11-07 10:18:18,nan,D9594036,nan,nan,nan,nan,nan,nan,nan,2018-11-07 10:18:18,Signed Up,42.2
+9723,11995,Maria Monarrez,maria_monarrez@yahoo.com,3236219044,Compton,California,Los Angels,90220,2018-11-07 06:13:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-07 06:13:05,Signed Up,41.7
+9753,11965,Alejandra Jacobo,ale1022ton@gmail.com,3237174550,Los Angeles,California,USA,90023,2018-11-06 22:26:25,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-06 22:26:25,Signed Up,25.0
+9787,11931,Anaisa Argueta,nunezanaisa@yahoo.com,3235280455,Los Angeles,Ca,Los Angeles,90026,2018-11-06 18:17:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-06 18:17:27,Signed Up,15.6
+9790,11928,Sabrina Garcia,breeena101921@gmail.com,5622282786,El Monte,California,United States,91731,2018-11-06 18:03:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-06 18:03:11,Signed Up,43.2
+9797,11921,Dayana Castro,dayanacastro600@hotmail.com,18184418319,Reseda,Ca,Usa,91335,2018-11-06 17:42:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-06 17:42:03,Signed Up,28.5
+9828,11890,Angel Torres,angelttorres@gmail.com,7143950629,Anaheim,California,USA,92801,2018-11-06 15:52:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-11-06 15:52:23,Signed Up,55.5
+9867,11851,Joilynn Johnston,joilynn.johnston@yahoo.com,5627874333,Long Beach,California,USA,90802,2018-10-17 08:17:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-17 08:17:52,Signed Up,50.1
+9881,11837,Donnell Peace,Donnellpeace@gmail.com,3239445182,Los Angeles,Ca,United States,90047,2018-10-16 21:05:15,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-16 21:05:15,Signed Up,20.9
+9911,11807,Rene Collins,reneacollins2@gmail.com,3474193584,Los Angeles,Ca,USA,90016,2018-10-16 13:42:07,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-16 13:42:07,Signed Up,9.2
+9961,11757,Olga Lopez,olgalopez310@yahoo.com,3109785024,Gardena,Ca,Us,90247,2018-10-10 17:13:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-10 17:13:13,Signed Up,31.2
+9995,11723,CRYSTAL BARAJAS,cryssbeexo87@gmail.com,5622827673,Upland,California,United States Of America,91786,2018-10-09 12:30:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-09 12:30:41,Signed Up,79.1
+9996,11722,Joshua Adrian Tolentino,joshuaadriantolentino@gmail.com,+17144482236,Anaheim,California,United states Pi,92805,2018-10-09 11:59:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-09 11:59:24,Signed Up,61.2
+10013,11705,Tahmineh mahdmina,tahmineh.mahdmina@gmail.com,5622909314,long beach,california,unitestate,90802,2018-10-08 19:51:28,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-08 19:51:28,Signed Up,50.1
+10016,11702,Gamal Attiah,gamalattiah@gmail.com,8189387761,Pacoima,CA,USA,91331,2018-10-08 18:21:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-08 18:21:01,Signed Up,34.7
+10023,11695,Mitra Reshadi,mitra4real@yahoo.de,5105567658,Chino Hills,California,San Bernardino,91709,2018-10-08 13:01:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-08 13:01:37,Signed Up,78.1
+10062,11656,CARY  Lewis ,caryblewis@iCloud.com,13107523499,canyon country,ca,United States of America,91387,2018-10-07 10:29:48,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-16 11:31:27,Signed Up,54.8
+10154,11564,Pisit Maneewong ,ps.maneewong2523@gmail.com,6262658996,Rosemead ,CA,USA,91770,2018-10-03 23:27:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-05 00:41:58,Signed Up,38.4
+10171,11547,Bingqiang ni,nbq5800@gmail.com,6265007089,Monterey PARK ,ca,Usa,91754,2018-10-03 13:34:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-08 20:44:26,Signed Up,31.0
+10217,11500,Brittany Ratchford,ratchford77@yahoo.com,+19804172603,Canoga Park,California,United States,91304,2018-10-02 06:37:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-02 06:37:37,Signed Up,43.8
+10234,11483,Vahe Saroyan,vsaroyan@yahoo.com,8183351016,Van Nuys,Ca,Usa,91406,2018-10-01 12:57:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-01 12:57:30,Signed Up,26.0
+10254,11463,Joey Chavez,chavezjoey53@gmail.com,6263546738,Los Angeles,CA,Unites States,90001,2018-09-30 20:01:13,2021-04-20,D7475062 ,nan,nan,nan,nan,nan,nan,nan,2018-09-30 20:01:13,Signed Up,27.2
+10260,11457,Lorenzo Medina,lancemedina@live.com,3233094104,Los Angeles,California,USA,90029,2018-09-30 12:45:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-30 12:45:03,Signed Up,11.4
+10269,11448,David Friedman,Mrdavidfriedman@gmail.com,8184851443,Sherman Oaks,Ca,Usa,91423,2018-09-29 23:49:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-29 23:49:26,Signed Up,12.8
+10288,11429,Patty Tapia,ptapia323@gmail.com,+13235297013,Los Angeles,Ca,Usa,90023,2018-09-28 20:04:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-28 20:04:41,Signed Up,25.0
+10308,11409,Livingstone Mukasa,cardenas.rebeca@gmail.com,8187988771,Winnetka,California,Los Angeles,91306,2018-09-28 00:28:15,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-28 00:28:15,Signed Up,32.4
+10353,11364,Teri Kitajima,terikitajima@gmail.com,7148737505,Anaheim,Ca,United States,92801,2018-09-26 19:19:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-26 19:19:26,Signed Up,54.4
+10387,11330,Chad Sanders,marlon.casting@gmail.com,3104665230,Los Angeles,CA,Usa,90048,2018-09-25 21:07:42,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 21:07:42,Signed Up,3.2
+10397,11320,Emilio bendel,emiliorev21@hotmail.com,6573299595,orange,california,orange,92866,2018-09-25 19:21:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 19:21:24,Signed Up,79.9
+10405,11312,Marquita Smith,the1msmacnificent@yahoo.com,3108034173,Compton,Ca,United states,90220,2018-09-25 17:50:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 17:50:52,Signed Up,41.7
+10423,11294,Nicole Caddell,n_caddell@yahoo.com,6263929374,Alhambra,Midvale,Usa,91803,2018-09-25 13:21:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 13:21:36,Signed Up,34.1
+10435,11282,Ryan Releford,releford00@gmail.com,7209850751,Los Angeles ,ca,USA,90047,2018-09-25 11:06:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 12:00:30,Signed Up,21.2
+10440,11277,Samuel Castro,castrorogel@gmail.com,3104137085,Compton,California,Usa,90222,2018-09-25 10:23:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 10:23:47,Signed Up,35.4
+10444,11273,Meryal Johnson,kmoye@yahoo.com,7145972023,Buena,California,United States,90602,2018-09-25 10:11:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 10:11:26,Signed Up,50.7
+10452,11265,Lois Jenkin,mzlpjenkins@gmail.com,6262426171,West Covina,California,United States,91791,2018-09-25 08:28:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 08:28:34,Signed Up,56.2
+10470,11247,Haley Mccabe,lucidreams88@gmail.com,6573407800,Anaheim,Ca,Usa,92801,2018-09-25 05:05:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-25 05:05:46,Signed Up,54.4
+10480,11237,Biiftuu Addunyaa,adugna.alem@gmail.com,3233971531,Los Angeles,Ca,U.S.A,90016,2018-09-24 23:14:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-24 23:14:51,Signed Up,9.2
+10494,11223,Bryan Rosas,Pizzabryan1@gmail.com,8186973978,reseda,ca,USA,91355,2018-09-24 13:49:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-24 13:49:31,Signed Up,54.8
+10551,11166,Caytee Ulrich,ksmjkk@gmail.com,+19093290944,Upland,Ca,Usa,91786,2018-09-23 09:23:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-23 09:23:41,Signed Up,79.1
+10600,11117,Luis Mejia,lm6544764@gmail.com,3235926326,Los Angeles,Ca,United states,90007,2018-09-22 10:52:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-22 10:52:47,Signed Up,15.3
+10605,11112,Yolanda Torres,yolanda_torres65@yahoo.com,2132841763,Los Angeles,California,USA,90037,2018-09-22 10:15:28,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-22 10:15:28,Signed Up,19.1
+10626,11091,Alain Siaka,alainsiaka@yahoo.fr,6122297452,Granada Hills,Ca,Usa,91344,2018-09-21 23:50:58,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-21 23:50:58,Signed Up,33.5
+10631,11086,LaMar Adams,lamaradams4747@gmail.com,7472498949,Los Angeles,CA,USA,90043,2018-09-21 21:34:45,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-21 21:34:45,Signed Up,14.5
+10650,11067,Bassam aboudiab,baboudiab@yahoo.com,6264855874,covina,ca,usa,91724,2018-09-21 12:11:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-21 12:11:12,Signed Up,60.0
+10659,11058,Ivan Duenas,i.duenas0318@gmail.com,6265603225,Los Angeles,Ca,United States,90023,2018-09-21 09:22:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-21 09:22:52,Signed Up,25.0
+10663,11054,Jerald Eubanks,727jbank@gmail.com,3239831306,Los Angeles,California,USA,90056,2018-09-21 07:56:14,2020-07-27,B6678088,nan,8FIC672,Blue,Niro,Kia,Car,Car services,2018-09-21 07:56:14,Signed Up,12.0
+10670,11047,Lillian Castillo,threeriversresident@gmail.com,3238103242,Los Angeles,California,United States,90028,2018-09-21 06:24:45,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-21 06:24:45,Signed Up,9.7
+10710,11007,Chris  Larocque ,onlarocks@iCloud.com,9093484658,Huntington Beach,California,United States,92648,2018-09-20 13:51:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-10 22:47:45,Signed Up,73.2
+10711,11006,Leticia Jimenez luna,leticiajimenez1976@yahoo.com,3235687748,Los Angeles,California,United states,90044,2018-09-20 13:19:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-20 13:19:44,Signed Up,27.6
+10762,10955,Elizabeth Alvarez,e.alvarez8186948190@gmail.com,8186948190,Pacoima,Kelowna Street,Unites States Of America,91331,2018-09-19 22:47:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-19 22:47:33,Signed Up,25.8
+10795,10922,Erica Reynolda,ericaontherise@yahoo.com,8186799261,Burbank,California,United States,91502,2018-09-19 15:45:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-19 15:45:26,Signed Up,27.0
+10802,10915,Javier Sanchez,javiersanchez031@gmail.com,3234135511,Los Angeles,California,United States,90044,2018-09-19 14:27:42,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-19 14:27:42,Signed Up,27.5
+10803,10914,Jose Ruiz,jose90_16@yahoo.com,5626853852,Long Beach,California,United States,90805,2018-09-19 14:10:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-19 14:10:37,Signed Up,47.6
+10830,10887,Will Terrell,wilbertterrell@gmail.com,5626164403,Hawthorne,Crenshaw,United States,90250,2018-09-19 10:04:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-19 10:04:26,Signed Up,26.0
+10861,10856,RONALD HENRY,RONHENRY41@YAHOO.COM,3103453311,Simi Valley,California,USA,93063,2018-09-19 03:46:41,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-19 03:46:41,Signed Up,54.5
+10870,10847,Tracey Porras,traceyporras@gmail.com,4087714560,Los Angeles,Ca,Us,90027,2018-09-18 23:26:38,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-18 23:26:38,Signed Up,15.0
+10873,10844,Mtume Stiner,mstiner2020@yahoo.com,3232391909,Los Angels,California,United States,90044,2018-09-18 22:21:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-18 22:21:27,Signed Up,27.5
+10884,10833,Dale Murphy,calmyoga@gmail.com,+18084466653,Los Angeles,CA,USA,90034,2018-09-18 20:05:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-18 20:05:00,Signed Up,4.5
+10916,10801,Ricardo Alvarado,ra344405@gmail.com,8187433851,Pacoima,California,Los Angeles,91331,2018-09-18 14:56:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-18 14:56:37,Signed Up,34.7
+10932,10785,XiaoDong Lin,617369931@qq.com,6266990820,Rowland Heights,18405 Farjardo St,US,91748,2018-09-18 11:43:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-18 11:43:30,Signed Up,53.3
+10987,10730,Soontaree Rathbone,Tbone4011@gmail.com,9499813025,Lakewood,Ca,USA,90715,2018-09-17 22:00:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-17 22:00:43,Signed Up,49.5
+11001,10716,Edward Blunt,edwardblunt32@gmail.com,8184706495,Hawthorne,Ca,US,90250,2018-09-17 18:01:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-17 18:01:32,Signed Up,24.6
+11031,10686,Kenyania Joseph,kenjoseph1818@yahoo.com,3235121932,Azusa,California,United states,91702,2018-09-17 12:26:02,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-17 12:26:02,Signed Up,80.4
+11045,10672,SONJA WILLIAMS,sonjawilliams99@gmail.com,+13238794004,Los Angeles,California,United States,90003,2018-09-17 09:56:56,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-17 09:56:56,Signed Up,25.2
+11084,10633,Ebony Pegues-Gonzalez,ebonydoesitall.ep@gmail.com,2132981717,Los Angeles,Ca,Usa,90043,2018-09-16 22:52:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-16 22:52:24,Signed Up,14.5
+11111,10606,Charles Phinizy,phinizyelite@gmail.com,5623918114,Long Beach,CA,USA,90804,2018-09-16 18:11:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-16 18:11:47,Signed Up,51.1
+11116,10601,Clishea Thornton,clishea1@hotmail.com,3232375999,Los Angeles,California,United States,90002,2018-09-16 16:13:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-16 16:13:27,Signed Up,29.1
+11120,10597,Lourdes Arredondo,lulu.a1881@gmail.com,626237441,El Monte,California,Los Angeles,91733,2018-09-16 15:42:53,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-16 15:42:53,Signed Up,39.6
+11140,10577,Guido Sebastiani,gaspozu@yahoo.com,8184236473,Santa Clarita,California,USA,91355,2018-09-16 12:01:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-16 12:01:30,Signed Up,54.8
+11178,10539,Sharon Harris,sharonharris071@gmail.com,3237057780,Los Angeles,California,Usa,90037,2018-09-15 18:06:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-15 18:06:18,Signed Up,20.4
+11183,10534,Ashley Vega,ashcali005@yahoo.com,5627132177,Whittier,Ca,United States,90604,2018-09-15 17:09:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-15 17:09:36,Signed Up,44.7
+11194,10523,Sanique Grimsrud,grimsrudsunny@Gmail.com,7146239701,Huntington Beach ,California ,US,92647,2018-09-15 14:43:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-19 00:53:20,Signed Up,70.0
+11198,10519,Anatolio Lozano,lozanoanatolio5@gmail.com,6264171246,Comerce,Ca,Usa,90040,2018-09-15 13:42:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-15 13:42:31,Signed Up,33.6
+11200,10517,Shanell Roberts,ilyxshanell@gmail.com,2132758459,Hawthorne,Lemoli,United states,90250,2018-09-15 13:22:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-15 13:22:34,Signed Up,24.3
+11231,10486,Olalekan Salami,lekpoint2009@yahoo.com,8183067032,Los Angels,California,USA,90302,2018-09-15 06:37:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-15 06:37:52,Signed Up,14.0
+11250,10467,Juan Rodriguez,Josiahrodriguez198803@gmail.com,7147268894,Anaheim,CA,USA,92804,2018-09-14 21:34:28,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-14 21:34:28,Signed Up,56.2
+11301,10416,Dunbar Bradley,cekue1@yahoo.com,3233847632,Los Angeles,CA,United States,90008,2018-09-14 10:58:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-14 10:58:50,Signed Up,11.1
+11302,10415,Evelen Martinez,evelyn16jocelyn@gmail.com,4242516569,Lynwood,Linden St,United States,90262,2018-09-14 10:45:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-14 10:45:57,Signed Up,38.0
+11303,10414,Evelen Martinez,evelenm24@gmail.com,42426516569,Lynwood,Linden St,United States,90262,2018-09-14 10:44:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-14 10:44:49,Signed Up,38.0
+11305,10412,Scott Christiansen,christiansenscott8@gmail.com,5622357796,Los Angeles,CA,USA,91606,2018-09-14 10:32:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-14 10:32:18,Signed Up,17.8
+11354,10363,William Good,freewilly2187@gmail.com,5627867649,Long Beach,California,Usa,90806,2018-09-13 18:59:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-13 18:59:24,Signed Up,42.4
+11357,10360,Rolando Rubio Reyes,rolexvh100@gmail.com,3237064315,Los Angeles,Ca,Usa,90044,2018-09-13 18:21:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-13 18:21:55,Signed Up,27.5
+11377,10340,Mara Newton,mara31newto@outlook.com,3232729251,Los Angeles,Deane,USA,90043,2018-09-13 15:10:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-13 15:10:55,Signed Up,13.7
+11391,10326,Kaleah Durr-Hamilton,kaleah_durr@yahoo.com,3235038583,Gardena,California,United States,90247,2018-09-13 12:40:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-13 12:40:03,Signed Up,31.2
+11399,10318,Evelyn Pineda,eemm1975@gmail.com,+18182567186,Sylmar,California,Estados Unidos,91342,2018-09-13 10:44:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-13 10:44:55,Signed Up,44.9
+11455,10262,Jessica Robinson,missyjones239@yahoo.com,5622001211,Long Beach,Ca,USA,90810,2018-09-12 19:29:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 19:29:47,Signed Up,40.9
+11460,10257,Ely Escobar,jrblu7840@gmail.com,6262003419,La Puente,California,Us,91744,2018-09-12 18:58:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 18:58:30,Signed Up,54.2
+11472,10245,Demeka Lucas,demekalucas@gmail.com,3235351849,Downey,California,USA,90242,2018-09-12 15:49:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 15:49:21,Signed Up,45.0
+11484,10233,Meryal Johnson,meryaljohnson@gmail.com,7145972023,Buena Park,Ca,United States,90620,2018-09-12 14:08:39,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 14:08:39,Signed Up,55.3
+11487,10230,Salvador Amaral,salamaralp@outlook.com,3234934112,Los Angeles,California,USA,90063,2018-09-12 13:51:38,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 13:51:38,Signed Up,25.2
+11505,10212,Doris Escobar,doristulips07@gmail.com,5629917937,Long Beach,California,USA,90805,2018-09-12 12:18:54,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 12:18:54,Signed Up,47.6
+11515,10202,Vang Tran,tranezra@gmail.com,8323109471,huntington beach,california,USA,92683,2018-09-12 11:18:40,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 11:18:40,Signed Up,68.7
+11517,10200,Alfredo Barbosa,gotallgamer@gmail.com,+13236983221,Los Angeles,California,United States,90018,2018-09-12 11:03:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 11:03:35,Signed Up,13.3
+11542,10175,Gerardo Chavez,gerardocha08@gmail.com,6196322280,Baldwin Park,Ca,Los Angeles,91706,2018-09-12 06:33:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 06:33:52,Signed Up,48.2
+11557,10160,Rubi Perez,rubiperez0603@gmail.com,5623328540,Anaheim,California,United states,92805,2018-09-12 00:22:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-12 00:22:44,Signed Up,62.4
+11559,10158,Shahik Mariyova,shahikm2004@yahoo.com,8183832485,Glendale,Ca,Los Angeles,91205,2018-09-11 23:54:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-11 23:54:32,Signed Up,29.8
+11579,10138,Vahe Saroyan,vsaroyan@gmail.com,8183351016,Van Nuys,California,Los Angels,91406,2018-09-11 16:29:40,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-11 16:29:40,Signed Up,26.0
+11640,10077,ROMULO LEBIG,rlebig@yahoo.com,+18185369794,LA,Ca,Usa,91605,2018-09-10 16:50:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-10 16:50:51,Signed Up,19.4
+11646,10071,Harry Jose,hjjose@gmail.com,8187418179,Chatsworth,Dearborn,USA,91311,2018-09-10 14:46:03,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-10 14:46:03,Signed Up,36.8
+11660,10057,Fredy Perez,twincess1001@gmail.com,6263618972,El monte,Ca,Usa,91732,2018-09-10 10:12:56,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-10 10:12:56,Signed Up,43.8
+11672,10045,Robert Thomas,robert.thomas3283@yahoo.com,4242052880,Long Beach,CA,USA,90804,2018-09-10 05:22:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-10 05:22:50,Signed Up,51.1
+11695,10022,Pascual Villanueva,taurorediabo77@gmail.com,7147477541,Garden Grove,Ca,Usa,92843,2018-09-09 17:39:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-09 17:39:37,Signed Up,69.9
+11726,9991,Jose Avelar,leog0013@gmail.com,7478001149,Winnetka,California,ESTADOS UNIDOS,91306,2018-09-09 07:50:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-09 07:50:21,Signed Up,32.4
+11733,9984,Bunikie Adrada,bunikiegriffin5@gmail.com,3239078768,Los Angeles,California,United States,90061,2018-09-09 00:13:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-09 00:13:47,Signed Up,30.8
+11774,9943,Anastacia Angelo,aangelo0810@yahoo.com,3233468266,Los Angeles,Ca,California,90037,2018-09-08 07:19:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-08 07:19:35,Signed Up,20.4
+11816,9901,Tasha Bradley,bradley.tasha@rocketmail.com,5622066218,Long Beach,Ca,UnitedStates,90805,2018-09-07 11:48:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-07 11:48:11,Signed Up,48.0
+11858,9859,Mario Gutierrez,mariogutierrez333@yahoo.com,7142320970,Anaheim,California,Usa,92807,2018-09-06 18:00:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-06 18:00:37,Signed Up,71.8
+11870,9847,Elizabeth Espana,elizabethlespana@gmail.com,3235528546,Covina,Ca,Usa,91722,2018-09-06 14:35:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-06 14:35:05,Signed Up,56.2
+11890,9827,Amber Widby,mrz.jones142@gmail.com,+13107048534,Compton,California,United States,90222,2018-09-06 10:41:50,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-06 10:41:50,Signed Up,35.4
+11896,9821,Felicia Caldwell,feliciacaldwell@gmail.com,3235355495,Los Angeles,California,Los Angeles,90016,2018-09-06 10:06:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-06 10:06:26,Signed Up,9.1
+11901,9816,Monique Powell,mopowell74@gmail.com,3108090641,Hawthorne,California,USA,90250,2018-09-06 09:48:49,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-06 09:48:49,Signed Up,21.2
+11959,9758,Janett Gutierrez,jgs80621@gmail.com,6264177357,Alhambra,California,United States,91803,2018-09-05 11:26:09,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-05 11:26:09,Signed Up,33.4
+11963,9754,Gabriel Acosta,acostag.usc@gmail.com,2132801328,Los Angeles,California,United States,90061,2018-09-05 10:28:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-05 10:28:30,Signed Up,30.8
+11965,9752,Tyrone Coleman,bigbull190@gmail.com,4246237851,Carson,California,United States,90746,2018-09-05 10:16:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-05 10:16:21,Signed Up,35.7
+11988,9729,Maroel arenas,cubrixsolutions@gmail.com,5622292396,wesy covina,california,usa,91792,2018-09-04 22:41:58,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-04 22:41:58,Signed Up,58.3
+12023,9694,Ivonne Durant,durant1001@gmail.com,6268992169,La Crescenta,CA,United States,91214,2018-09-04 11:51:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-04 11:51:35,Signed Up,42.2
+12033,9684,Shane Smith,shanesmith92549@gmail.com,9513917700,Marina Del Rey,Ca,USA,90292,2018-09-04 08:39:08,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-04 08:39:08,Signed Up,16.9
+12048,9669,Charles Abouassaf,charles1assaf@gmail.com,8052318439,Simi Valley,California,Usa,93065,2018-09-03 19:13:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-03 19:13:11,Signed Up,62.4
+12053,9664,Julie Smith,juliea70.js@gmail.com,7145616599,Fullerton,Ca,Us,92833,2018-09-03 16:57:51,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-03 16:57:51,Signed Up,53.6
+12114,9603,SIMON SEMATIMBA,ssematimbasimon@gmail.com,8186267257,Van Nays,California,USA,91405,2018-09-02 07:31:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-02 07:31:14,Signed Up,24.7
+12169,9548,Jenifer Garcia,2526garciaj@gmail.com,9095481826,Chino,California,San Bernardino,91710,2018-08-31 18:49:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-31 18:49:14,Signed Up,77.2
+12171,9546,Rhonda Jones,rjrhondasing@gmail.com,7606050491,bellflower ,Ca ,United States,90706,2018-08-31 18:19:36,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-09-04 06:19:05,Signed Up,51.9
+12202,9515,Jacob Schor,jakeschor592@gmail.com,6265375801,south pasadena ,California,USA,91030,2018-08-31 04:50:20,2022-05-13,D5485222,nan,nan,nan,nan,nan,nan,nan,2018-09-04 17:53:51,Signed Up,32.6
+12205,9512,Yimy Hernandez,xyashirox50@gmail.com,4243087760,Long Beach,California,USA,90806,2018-08-30 22:32:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-30 22:32:17,Signed Up,42.4
+12232,9485,Kaylin  Jacobs,kaylinmjacobs1@gmail.com,6612693775,Los Angeles ,ca ,USA ,90062,2018-08-30 10:55:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-30 12:16:15,Signed Up,17.0
+12269,9448,Marlon Sanders,samson.cordell@gmail.com,3104665230,Los Angeles,California,Usa,90048,2018-08-29 19:33:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-29 19:33:00,Signed Up,3.2
+12291,9426,TaShauna Young,tashaunay@gmail.com,3239450482,Carson,Ca,United States,90746,2018-08-29 10:44:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-29 10:44:17,Signed Up,35.7
+12294,9423,Jennifer Brady,jennyfur1009@gmail.com,7147670328,Westminster,California,US,92683,2018-08-29 09:54:43,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-29 09:54:43,Signed Up,68.7
+12341,9376,Tamiaka Dale,tdale14@hotmail.com,13237032868,Los Angeles,California,United States Of America,90008,2018-08-28 14:05:19,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-28 14:05:19,Signed Up,11.1
+12360,9357,Paul Gonzalez,wackodbz@gmail.com,7142745989,Los Angeles,California,United States,90001,2018-08-28 10:05:40,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-28 10:05:40,Signed Up,27.2
+12421,9296,Kosal Nong,kokonice2meetu@gmail.com,6263635624,Hacienda Hts,1603 Eastleigh Ave,Usa,91745,2018-08-27 12:30:53,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-27 12:30:53,Signed Up,48.8
+12433,9284,Maritza Lopez,maritzaelopez@hotmail.com,8182848718,Simi VALLEY,California,United States,93063,2018-08-27 10:47:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-27 10:47:32,Signed Up,54.5
+12452,9265,Vorasit Chaiya,Benchaiya123@Gmail.com,3239434551,Baldwin Park,Paddy Ln,Los Angeles,91706,2018-08-27 06:22:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-27 06:22:57,Signed Up,49.3
+12463,9254,Sam Hogan,samj.hogan@yahoo.com,5622122686,Paramount,California,United States Of America,90723,2018-08-26 22:45:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-26 22:45:59,Signed Up,44.3
+12500,9217,Chanphal Hout,houtchan@Gmail.com,5626075222,Long Beach ,ca ,USA ,90813,2018-08-26 12:35:17,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-26 12:35:22,Signed Up,45.3
+12501,9216,Abiodun Bhadmos,abiodun.bhadmos@gmail.com,7146433124,Santa Ana,California,United State,92704,2018-08-26 12:07:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-26 12:07:35,Signed Up,78.7
+12505,9212,Arabia Allen,prettyheazle@gmail.com,6264867623,Pasadena,Ca,Usa,91104,2018-08-26 11:21:06,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-26 11:21:06,Signed Up,42.2
+12507,9210,Brandy Ablaza,mrsbablaza@gmail.com,3238304523,Pomona,California,United States,91767,2018-08-26 11:17:24,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-26 11:17:24,Signed Up,70.7
+12508,9209,Stevie Rincon,stevierincon2015@gmail.com,9096573122,Ontario,Ca,USA,91762,2018-08-26 10:47:20,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-26 10:47:20,Signed Up,78.4
+12554,9163,Chanmoly Chhim,Chanmolychhim66@gmail.com,5624535317,Long Beach,ca,USA,90805,2018-08-25 15:40:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-01-08 15:42:47,Signed Up,48.0
+12558,9159,Jose Mejia,jomar66613@gmail.com,+15622827164,Whittier,California,Eeuu,90602,2018-08-25 14:48:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-25 14:48:57,Signed Up,51.8
+12576,9141,Thom Chea,thomchea11@gmail.com,5623241445,Long Beach,California,United states,90814,2018-08-25 09:17:10,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-25 09:17:10,Signed Up,52.0
+12615,9102,Sarah Tory,sarah.tory@yahoo.com,5626504075,Paramount,California,LA,90723,2018-08-24 17:43:44,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-24 17:43:44,Signed Up,44.3
+12629,9088,Hersanh Urrutia,truehcorev82@gmail.com,3234270681,Los Angeles,California,USA,90004,2018-08-24 13:58:05,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-24 13:58:05,Signed Up,9.8
+12632,9085,Oscar Padilla,padillaoscar736@gmail.com,3236209953,Los Angeles,Ca,United States,90011,2018-08-24 12:59:33,2019-06-09,D7516972,nan,7x0v778,Black,Sorento,Kia,Car,Car services,2018-08-24 12:59:33,Signed Up,20.8
+12678,9039,Cassy Chavez,cassyc88@hotmail.com,5623863862,Compton,Corregidor,United States,90220,2018-08-23 21:23:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-23 21:23:13,Signed Up,34.5
+12684,9033,Questa Walker,questawalker@yahoo.com,8182218781,Van Nuys,California,USA,91405,2018-08-23 19:52:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-23 19:52:52,Signed Up,24.7
+12732,8985,ARMANDO CERVANTES,cervantes1@hotmail.com,7147600475,Santa ana,CA,USA,92701,2018-08-23 07:35:15,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-23 07:35:15,Signed Up,70.4
+12744,8973,Carlos Cortes,upsu@live.com,3234391529,South Gate,Ca,USA,90280,2018-08-22 22:10:39,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-22 22:10:39,Signed Up,38.4
+12748,8969,Yolanda Arita madrid,yolandarita1998@outlook.com,8187993269,North Hollywood,California,United Stated,91605,2018-08-22 21:17:58,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-22 21:17:58,Signed Up,19.4
+12772,8945,Mahshid Shakourian,u0577132@gmail.com,8019493829,Woodland Hills,California,U.S.,91367,2018-08-22 17:04:38,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-22 17:04:38,Signed Up,31.8
+12782,8935,Keonna Harris,keonna04@gmail.com,2063553081,Santa Monica,CA,United States,90404,2018-08-22 14:09:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-22 14:09:14,Signed Up,9.7
+12820,8897,Victor Martinez,vicrose6568@gmail.com,7146509404,Anaheim,California,America,92801,2018-08-22 02:48:53,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-22 02:48:53,Signed Up,55.5
+12832,8885,John Letele,johnletele@gmail.com,5626686047,Anaheim,California,Us,92804,2018-08-21 20:17:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-21 20:17:22,Signed Up,57.3
+12842,8875,Ammey Trsvis,ammeytravis87@gmail.com,3239159988,San Pedro,California,USA,90731,2018-08-21 16:35:46,nan,D5312507 ,nan,nan,nan,nan,nan,nan,nan,2018-08-21 16:35:46,Signed Up,50.4
+12848,8869,Ara Babasyan,ara.babasyan@gmail.com,8185749267,Los Angeles,CA,USA,90027,2018-08-21 14:47:33,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-21 14:47:33,Signed Up,15.0
+12869,8848,Maria Gonzales,gonzalesmaria1971@gmail.com,3102833179,San Pedro,CA,USA,90731,2018-08-21 09:10:27,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-21 09:10:27,Signed Up,50.4
+12880,8837,Malachi Edmond,Malachiedmond@yahoo.com,4243649734,Harbor City,CA,USA,90710,2018-08-21 05:28:13,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-21 05:28:13,Signed Up,38.2
+12900,8817,Christopher Fuentes,chris.menjivar33@gmail.com,3234089548,Alhambra,California,United States,91801,2018-08-20 16:30:46,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-20 16:30:46,Signed Up,35.6
+12901,8816,Anabelle Esguerra,a21esguerra@gmail.com,3108470045,Torrance,California,USA,90502,2018-08-20 16:11:26,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-20 16:11:26,Signed Up,33.8
+12918,8799,Daisy Montoya,daisyjackiemontoya@gmail.com,5623402512,South Gate,California,LA,90280,2018-08-20 12:15:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-20 12:15:01,Signed Up,38.4
+12922,8795,Brianna Ayala,Briayala28np@gmail.com,2132949372,Los Angeles,ca,United States,90008,2018-08-20 11:10:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-20 11:10:34,Signed Up,11.1
+12946,8771,Julio Sanchez,js7201998@gmail.com,3234892413,Hungtion Park,California,America,90255,2018-08-20 01:20:32,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-20 01:20:32,Signed Up,27.5
+12977,8740,Marvin Hernandez,marvinlhernandez39@gmail.com,8183259258,North hills,CA,UNITED states,91343,2018-08-19 13:42:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-19 13:42:11,Signed Up,27.9
+12979,8738,Malachi Edmond,malachiedmond1@gmail.com,4243649734,Harbor City,CA,USA,90710,2018-08-19 12:43:04,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-19 12:43:04,Signed Up,38.2
+13010,8707,James Flores,jfpb13@gmail.com,3238051572,Los Angeles,California,USA,90063,2018-08-18 18:38:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-18 18:38:22,Signed Up,26.3
+13049,8668,Kin Leung,kinwai1228@gmail.com,5629868922,Norwalk ,ca,Los Angeles ,90650,2018-08-17 23:47:12,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-10-01 01:09:08,Signed Up,42.4
+13057,8660,Vashtie Dobson,vashtie25@gmail.com,3234130056,Los Angeles,California,United States,90003,2018-08-17 19:25:53,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-17 19:25:53,Signed Up,24.1
+13067,8650,Brian Chen,rbibrian@gmail.com,16262725177,San Gabriel,California,United States,91776,2018-08-17 15:30:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-17 15:30:22,Signed Up,37.4
+13077,8640,Vanessa Diaz,vanessamc47@gmail.com,5627559971,Long Beach,Ca,Los Angeles,90804,2018-08-17 10:31:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-17 10:31:11,Signed Up,51.1
+13090,8627,Danielle Post,deepost85@gmail.com,5628468124,Whittier,Ca,United States,90605,2018-08-17 06:24:59,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-17 06:24:59,Signed Up,43.5
+13100,8617,SIMON SEMATIMBA,sematimbasimon@yahoo.com,8186267257,Van Nays,California,USA,91405,2018-08-16 20:01:30,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-16 20:01:30,Signed Up,24.7
+13113,8604,Charnice Houston,charnicehouston12@gmail.com,3235938610,Gardena,Ca,United States,90248,2018-08-16 15:08:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-16 15:08:47,Signed Up,34.6
+13170,8547,Robert Crisantos,robertcrisantos03@gmail.com,4246251706,Los Angeles,Ramsgate Ave,United States,90045,2018-08-15 16:57:18,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-15 16:57:18,Signed Up,16.9
+13667,8046,Daniel Bernal,dbee.2300@gmail.com,3234530273,Pico Rivera,durfee ave,usa,906607473,2018-08-05 16:15:34,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-08-05 16:15:34,Signed Up,39.9
+13938,7775,Isikhuemen Erewele,erewele@hotmail.com,3142037045,Beverly Hills,Santa Monica,Us,902121606,2018-07-29 18:55:56,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-07-29 18:55:56,Signed Up,13.5
+14045,7668,Tameka Randolph,teamrandolph2018@outlook.com,3233270630,Los Angeles,1834 W 91st St,Usa,900047,2018-07-27 05:23:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-07-27 05:23:52,Signed Up,22.3
+15055,6658,Jared Rhodes,jcrhodes100@gmail.com,3109513663,Carson,Ca,Usa,090746,2018-07-09 18:49:00,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-07-09 18:49:00,Signed Up,35.7
+15098,6615,Alaric Simon,alaricsimon@gmail.com,3235152565,Hawthorne,11629 S. Wilton Pl,US,902501,2018-07-09 12:12:52,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-07-09 12:12:52,Signed Up,23.4
+16047,5666,Marlaina Melman,lainamelman86@gmail.com,2096225172,San Jose,California,USA,095307,2018-06-26 15:33:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-06-26 15:33:55,Signed Up,59.8
+16332,5381,Vanessa Heredia,vheredia136@gmail.com,5626462701,South Gate,2772 Santa Ana,United  States,090280,2018-06-22 11:46:14,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-06-22 11:46:14,Signed Up,71.0
+16937,4776,Latosha Smith,latoshasmith08@yahoo.com,3174108838,New Orleans,LA,United States Of America,070143,2018-06-13 19:36:21,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-06-13 19:36:21,Signed Up,20.9
+17611,4102,Hugo Barahona,leonebhl@live.com,8453990003,Canoga Park,Los Angeles California,Canoga Park Valle De San Fernando,913031441,2018-06-03 13:08:35,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-06-03 13:08:35,Signed Up,19.8
+17617,4096,Amro Hassanin ,amrh82@gmail.com,3234041091,Anaheim ,California ,usa ,928022,2018-06-03 08:45:02,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-06-03 08:45:05,Signed Up,72.1
+17765,3948,Abdul Basir Amiri,basir_z22@yahoo.com,2134560915,Los Angeles,CA,U.S.,090031,2018-05-30 16:46:31,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-05-30 16:46:31,Signed Up,27.3
+17865,3848,Craig Merkin,lotusfive@icloud.com,9495013107,garden grove ,ca,USA ,92843 - ,2018-05-28 12:59:23,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-04-04 13:33:43,Signed Up,69.9
+17991,3722,Addisu Asfaw,addethi21@yahoo.com,3108669196,Inglewood,California,United States of America,903004,2018-05-24 20:55:42,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-05-24 20:55:42,Signed Up,20.6
+17994,3719,Abdul Basir Amiri,baherabdul8@hotmail.com,2134560915,Los Angeles,CA,U.S.,090031,2018-05-24 19:29:11,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-05-24 19:29:11,Signed Up,27.3
+18514,3199,Safwat  Demian ,safwatdemean@yahoo.com,3106789432,Hawthorne ,California ,United States of America ,90250-7197,2018-05-10 21:14:16,nan,nan,nan,nan,nan,nan,nan,nan,nan,2019-05-17 21:35:50,Signed Up,24.6
+18526,3187,Nerisa Edmond,meri32@aol.com,2403867327,Landover Hills,Warner Ave,United States,2078419,2018-05-10 19:17:38,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-05-10 19:17:38,Signed Up,71.9
+19254,2456,OSWALD BLAKE,oz42599@netzero.com,5623078399,NORWALK,Ca,United States,090650,2018-04-20 16:39:29,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-04-20 16:39:29,Signed Up,42.4
+19556,2154,Roberto Clemente,robert_clemente@ymail.com,5626733413,Long Beach,1155 Orizaba Avenue,California,908046523,2018-04-12 13:41:01,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-04-12 13:41:01,Signed Up,47.9
+19714,1995,Nan Crippen,picklespeck@gmail.com,5625407526,long Beach,CA,Los Angeles,90813-,2018-04-08 01:58:22,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-04-08 02:11:08,Signed Up,49.0
+19723,1986,Jay Petersen,job5726@att.net,3235961230,North Hollywood,Ca,Usa,916014,2018-04-07 18:54:58,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-04-07 18:54:58,Signed Up,12.8
+19971,1737,Dylan Maxwell,dylanmaxwell710@gmail.com,7148606417,Placentia ,Ca,Orange County ,92870-1,2018-03-28 14:20:47,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-03-28 14:27:52,Signed Up,67.0
+20054,1644,Johana Edwards,johanaedwards7@gmail.com,7605861862,newhall,ca,California ,91321-00,2018-03-25 10:34:37,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-03-25 10:34:59,Signed Up,47.6
+20318,1380,Santos Gonzalez,Santosgonzales546@gmail.com,3234955549,Los Angeles,California,California,090037,2018-02-14 21:22:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-02-14 21:22:57,Signed Up,21.2
+20495,1203,Daryl Smith,dgsmith01@hotmail.com,7143654101,Yorba Linda,California,United States Of America,092886,2018-02-06 14:50:55,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-02-06 14:50:55,Signed Up,79.5
+20526,1172,Alice Lozornio,cachitoyo77@yahoo.com,7147867324,Anaheim,1555 W Harriet Lane,Usa,928022119,2018-02-03 22:47:57,nan,nan,nan,nan,nan,nan,nan,nan,nan,2018-02-03 22:47:57,Signed Up,60.1
+21241,442,Michael  Grant ,vball57@gmail.com,7023027464,El Segundo,CA,United States,90245,2017-02-07 19:21:00,2021-08-10,D9749467,nan,7MYN963,Blue,Prius,Toyota,Car,Car services,2019-05-08 17:08:22,Signed Up,25.5
+21356,320,Eidonet Peralta,eidonetperalta@gmail.com,3108643781,wilmington,ca,united states,90744,2016-10-11 07:46:38,nan,b5986774,nan,VWNL449,red,IS,Lexus,Car,Car services,2016-10-11 07:46:38,Signed Up,40.4

@@ -10,3 +10,4 @@ export const API_SERVICE_LIST = API_ENDPOINT + "servicelist/";
 export const API_SERVICE_LIST_SEARCH =
   API_ENDPOINT + "servicelist/?service_name=";
 export const API_FILE_UPLOAD = API_ENDPOINT + "upload/";
+export const API_CONTACT_US_NEW = API_ENDPOINT + "contactus/";

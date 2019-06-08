@@ -4,11 +4,12 @@ import * as API_CONSTANTS from "../../Common/APIConstants";
 import { Segment, Input, Form, TextArea, Button } from "semantic-ui-react";
 import { FilePond } from "react-filepond";
 import "filepond/dist/filepond.min.css";
+import Axios from "axios";
 
 class ContactUs extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { temp_uploads: [], email: "", phone: "", message: "" };
+    this.state = { temp_uploads: [], email: "", subject: "", message: "" };
   }
 
   render() {
@@ -23,8 +24,8 @@ class ContactUs extends React.Component {
     const onChangeEmail = event => {
       this.setState({ email: event.target.value });
     };
-    const onChangePhone = event => {
-      this.setState({ phone: event.target.value });
+    const onChangeSubject = event => {
+      this.setState({ subject: event.target.value });
     };
     const onChangeMessage = event => {
       this.setState({ message: event.target.value });
@@ -32,8 +33,23 @@ class ContactUs extends React.Component {
     const handleSubmit = event => {
       const message = this.state.message;
       const email = this.state.email;
-      const phone = this.state.phone;
-      console.log(message + email + phone);
+      const subject = this.state.subject;
+      const file_uploads = this.state.temp_uploads;
+
+      const post_data = {
+        email: email,
+        subject: subject,
+        message: message,
+        uploaded_file_ids: file_uploads
+      };
+
+      console.log(post_data);
+
+      Axios.post(API_CONSTANTS.API_CONTACT_US_NEW, post_data).catch(error =>
+        console.log(error)
+      );
+
+      this.setState({ temp_uploads: [], email: "", subject: "", message: "" });
     };
 
     return (
@@ -52,14 +68,15 @@ class ContactUs extends React.Component {
               <Form.Field
                 id="form-input-control-last-name"
                 control={Input}
-                label="Phone"
-                placeholder="Phone"
-                onChange={onChangePhone}
-                value={this.state.phone}
+                label="Subject"
+                placeholder="Subject"
+                onChange={onChangeSubject}
+                value={this.state.subject}
               />
             </Form.Group>
             <Form.Field>
               <FilePond
+                ref={ref => (this.pond = ref)}
                 server={API_CONSTANTS.API_FILE_UPLOAD}
                 onprocessfile={handleProcessFile}
               />
