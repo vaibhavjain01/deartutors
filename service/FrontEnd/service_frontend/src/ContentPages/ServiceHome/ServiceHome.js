@@ -20,15 +20,6 @@ class ServiceHome extends React.Component {
               <GridColumn width="8">
                 <FetchBrandDescription />
               </GridColumn>
-              <GridColumn width="8">
-                <FetchCategories />
-              </GridColumn>
-            </GridRow>
-            <GridRow>
-              <GridColumn width="8" />
-              <GridColumn width="8">
-                <FetchHours />
-              </GridColumn>
             </GridRow>
           </Grid>
         </Segment>

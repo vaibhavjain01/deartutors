@@ -12,15 +12,7 @@ class ServiceMenu extends Component {
     const menu_bg_color = "violet"; //this.props.menu_bg_color;
     const panes = [
       {
-        menuItem: "Home",
-        render: () => (
-          <Tab.Pane attached={false}>
-            <ServiceHome />
-          </Tab.Pane>
-        )
-      },
-      {
-        menuItem: "Categories",
+        menuItem: "Services",
         render: () => (
           <Tab.Pane attached={false}>
             <ServiceCategories />
